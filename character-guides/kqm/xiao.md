@@ -258,7 +258,7 @@ To do it, just hold down LMB for your Charged Attack, then jump after Xiao swing
 
 High plunge spam is exactly as it sounds, you jump up [high enough](https://imgur.com/fuC3rSh) for a high plunge and cancel the recovery frame by holding down a movement key or attacking once with a normal attack. This is more efficient than low plunge spam as long as you don’t go to the peak of your jump.
 
-[**JEP Combo**](https://imgur.com/BYOY4p6) 
+[**JEP Combo**](https://imgur.com/BYOY4p6)
 
 This combo can be used if you need to gap close with its high mobility and high damage for the time it takes to do. You just jump, use Lemniscatic Wind Cycling, and plunge. However, you should only use this outside of your burst and when you are certain you can hit the enemy for Anemo particles.
 

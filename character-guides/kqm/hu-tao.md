@@ -41,7 +41,7 @@ Hu Tao is unique to other pyro carries in that she is able to vape and melt quit
 
 ### **Turbo Tao:**
 
-Despite overload being awkward to work around due to smaller enemies getting sent flying in various directions, Hu Tao is one of the better users of the reaction because her charged attack will naturally chase them in most scenarios. Combine this with [Fischl’s turbo mechanics](https://www.youtube.com/watch?v=9I_NCFg-Cdw&t=123s), Turbo Tao is born. 
+Despite overload being awkward to work around due to smaller enemies getting sent flying in various directions, Hu Tao is one of the better users of the reaction because her charged attack will naturally chase them in most scenarios. Combine this with [Fischl’s turbo mechanics](https://www.youtube.com/watch?v=9I_NCFg-Cdw&t=123s), Turbo Tao is born.
 
 * **Pros:**
   * Flexible in the supports you can choose in comparison to some of Hu Tao’s other comps.
@@ -72,7 +72,7 @@ UnicornAlpha\#0128
 
 ### **Main DPS**
 
-Normal Attack: Secret Spear of Wangsheng &gt; Guide to Afterlife &gt; Spirit Soother 
+Normal Attack: Secret Spear of Wangsheng &gt; Guide to Afterlife &gt; Spirit Soother
 
 For a sustained high field uptime playstyle, the increase from investing in Secret Spear of Wangsheng is far greater than the increase from upgrading Spirit Soother. Guide to Afterlife can be levelled alongside auto attacks but it is suggested to prioritize Secret Spear of Wangsheng.
 
@@ -126,12 +126,12 @@ The Staff of Homa is by far Hu Tao’s best weapon, but she is surprisingly quit
 | **Deathmatch \(2+ enemies\)** | 100% | 100% |  |
 | **Lithic Spear R1 +4 Liyue** | 98.7% | 100.7% | +3 Liyue is also better than Blackcliff Pole |
 | **White Tassel R5** | 93.5% | 94.1% | A 3\* weapon makes its appearance. |
-| **Blackcliff Polearm**  | 93.4% | 91.1% |  |
+| **Blackcliff Polearm** | 93.4% | 91.1% |  |
 | **Skyward Spine** | 93.2% | 94.9% | Energy recharge on Hu Tao isn't particularly useful. |
 | **Dragon's Bane R1 \(no passive\)** | 93.2% | 99.2% | Just for reference, no DMG% is shown to see how low Dragon's Bane can fall. |
 | **Lithic Spear R1 +2** | 91.9% | 93.7% | Worst case scenario for Vape Hu Tao. |
 
-Calculations done by Muakasan\#2792. 
+Calculations done by Muakasan\#2792.
 
 #### Assumptions
 
@@ -143,24 +143,24 @@ See [this sheet](https://docs.google.com/spreadsheets/d/1P1QqLKFK1utVs-eXqeEBl3P
 
 ### Expanded Weapon Notes
 
-**Staff of Homa** - As you’d expect, Hu Tao’s signature weapon is also her best in slot . Due to Hu Tao’s low base ATK she doesn’t value ATK% like other characters would, so Homa's 66.2% Crit DMG and HP scaling passive make it the perfect weapon for her. Compared to other weapons it also refines fantastically at around 5% DMG per refine.  
-  
-**Primordial Jade Winged-Spear** - Like with all polearm users currently, the PJWS is an excellent option especially if you do not have the Staff of Homa. Maintaining max stacks is important for using the weapon efficiently \(it falls behind Deathmatch without it\) which is unfortunately difficult to keep up and maintain on Hu Tao.  
-  
+**Staff of Homa** - As you’d expect, Hu Tao’s signature weapon is also her best in slot . Due to Hu Tao’s low base ATK she doesn’t value ATK% like other characters would, so Homa's 66.2% Crit DMG and HP scaling passive make it the perfect weapon for her. Compared to other weapons it also refines fantastically at around 5% DMG per refine.
+
+**Primordial Jade Winged-Spear** - Like with all polearm users currently, the PJWS is an excellent option especially if you do not have the Staff of Homa. Maintaining max stacks is important for using the weapon efficiently \(it falls behind Deathmatch without it\) which is unfortunately difficult to keep up and maintain on Hu Tao.
+
 **Deathmatch** - One of Hu Tao’s best available 4 stars and competes for 2nd BiS. It is a huge Crit Rate stat stick which is where most of its value lies. The ATK% gives marginal returns on Hu Tao. It refines very poorly so it’s not suggested to pick up multiple from the battle pass. The Crit Rate is still extreme valuable despite its problems.
 
-**Dragon's Bane** - Scales very well with refinements and is another contender for her 2nd BiS. You must be consistently triggering reactions \(Vape/Melt\) with this weapon or its effectiveness will significantly decrease. Overall, it's a more situational weapon but is a great choice if used correctly and **its greatest challenge is having enough Crit substat rolls.**  
-  
-**Vortex Vanquisher** - With both its substat and passive being ATK% makes is incredibly unattractive for Hu Tao. She will always prefer Crit, HP% or even Elemental Mastery over ATK%. You must be shielded to use this weapon to its max potential which makes it an inconsistent choice unless you have Zhongli.  
-  
+**Dragon's Bane** - Scales very well with refinements and is another contender for her 2nd BiS. You must be consistently triggering reactions \(Vape/Melt\) with this weapon or its effectiveness will significantly decrease. Overall, it's a more situational weapon but is a great choice if used correctly and **its greatest challenge is having enough Crit substat rolls.**
+
+**Vortex Vanquisher** - With both its substat and passive being ATK% makes is incredibly unattractive for Hu Tao. She will always prefer Crit, HP% or even Elemental Mastery over ATK%. You must be shielded to use this weapon to its max potential which makes it an inconsistent choice unless you have Zhongli.
+
 **Lithic Spear** - Can be a very good weapon for Hu Tao at R5 with 4 characters but this can be quite difficult to achieve as it limits your team compositions a lot \(No VV support from Liyue\). Consider using another weapon unless you can achieve these requirements or are out of options.
 
-**Blackcliff Polearm** - Probably Hu Tao's best "F2P" option. It slightly edges out Deathmatch at full stacks but the difficulty of achieving and the impracticality of maintaining the stacks consistently makes it a lesser option than Deathmatch.  
-  
-**Skyward Spine** - The energy recharge stat and attack speed boost isn’t effective enough on Hu Tao to justify using this over the above weapons. It should only be used if you have no other options, otherwise it is not recommended.  
-  
-**White Tassel** - A surprisingly decent F2P option but only to be used if you have no other options. Using this weapon your combos need to be normal attack focused or it loses even more value.  
-  
+**Blackcliff Polearm** - Probably Hu Tao's best "F2P" option. It slightly edges out Deathmatch at full stacks but the difficulty of achieving and the impracticality of maintaining the stacks consistently makes it a lesser option than Deathmatch.
+
+**Skyward Spine** - The energy recharge stat and attack speed boost isn’t effective enough on Hu Tao to justify using this over the above weapons. It should only be used if you have no other options, otherwise it is not recommended.
+
+**White Tassel** - A surprisingly decent F2P option but only to be used if you have no other options. Using this weapon your combos need to be normal attack focused or it loses even more value.
+
 **Black Tassel** - The HP% is nice but it doesn’t make up for the terrible passive. If you must run a 3 star weapon, White Tassel is a superior option.
 
 ![](https://lh6.googleusercontent.com/J78Yl8KCgrXaetFqprHlfCscaHpSHQpAZtznvDGCSiYQ-pKrIirfTHEfQj8mB1T-xbzx34mJFT-AMDc_YFKG9uNSq5CR5kbMrQDKLWfOhMRIokjNZq36Fd3IWLnV86-OTqTgA6_Q)
@@ -169,7 +169,7 @@ See [this sheet](https://docs.google.com/spreadsheets/d/1P1QqLKFK1utVs-eXqeEBl3P
 
 | Artifact Set | Description |
 | :--- | :--- |
-| **Crimson Witch of Flames \(4\)** |  Despite Hu Tao not being able to make full use of the 4PC effect it’s still BiS and surpasses any other options. |
+| **Crimson Witch of Flames \(4\)** | Despite Hu Tao not being able to make full use of the 4PC effect it’s still BiS and surpasses any other options. |
 | **Retracing Bolide \(4\)** | Strictly less damage than CW or LW but a very decent option if you are protected by a shield for most of her rotation. Naturally very good with Zhongli. |
 | **Lavawalker \(4\)** | BiS in mono Pyro compositions with Geo/Anemo support. A decent option in Turbo Tao comps as you want to maintain a Pyro aura. |
 
@@ -177,7 +177,7 @@ See [this sheet](https://docs.google.com/spreadsheets/d/1P1QqLKFK1utVs-eXqeEBl3P
 
 | Artifact Set | Description |
 | :--- | :--- |
-| **Crimson Witch of Flames \(2\) + Wanderer's Troupe \(2\)**               | Provides a strong EM bonus for Hu Tao that is fairly strong for her reactions. This set has the potential to catch up to Crimson Witch of Flames \(4\) if you have better substats. |
+| **Crimson Witch of Flames \(2\) + Wanderer's Troupe \(2\)** | Provides a strong EM bonus for Hu Tao that is fairly strong for her reactions. This set has the potential to catch up to Crimson Witch of Flames \(4\) if you have better substats. |
 | **Crimson Witch of Flames \(2\) + Noblesse Oblige \(2\)** | Pushes her burst damage just a little more. |
 | **Crimson Witch of Flames \(2\) + Gladiator's Finale \(2\)** | ATK% is just not ideal, but if you have some good pieces lying around, why not. |
 
@@ -189,7 +189,7 @@ See Muakasan\#2792’s [Sheet ](https://docs.google.com/spreadsheets/d/1QQBf0Rgb
 
 The standard recommendation for main stats is HP sands, Pyro DMG goblet, and Crit circlet. For vaporize or melt reaction comps, EM sands is a viable alternative that can provide more damage, at the cost of flexibility and a smaller health pool to work with.
 
-The exact breakpoint between HP and EM sands depends on your preferred playstyle, EM substats, and whether you use an EM buffer such as Sucrose, Albedo, or 4PC Instructor’s set. 
+The exact breakpoint between HP and EM sands depends on your preferred playstyle, EM substats, and whether you use an EM buffer such as Sucrose, Albedo, or 4PC Instructor’s set.
 
 Contrary to popular belief, you do not need ANY HP% to make EM sands better. If you are unsure of which to run, it is always safer to input your stats into a [calculator.](https://frzyc.github.io/genshin-optimizer/#/) As a very approximate rule of thumb, if your total EM from all sources is less than 250 \(main DPS\) or 300 \(burst\), you will get more damage from EM sands. For EM values in the 150-250 range, you may consider sticking to HP sands for more consistency and tankiness at the cost of a few percent DPS.
 
@@ -211,20 +211,20 @@ Hu Tao comps can be classified into two main categories: Amplification Tao and T
 
 **Hu Tao / Xingqiu / Augment / Support**
 
-Amplification Tao comps function around enabling Hu Tao to proc as many Vaporize and Melt reactions as possible. At first glance, this is no different from other Pyro carries \(Diluc and Klee\)  with their Vaporize compositions, but Hu Tao has the added benefit of having slow enough of Pyro application to actively Vaporize. This comp has to be played around Xingqiu’s 21s Burst cooldown, making sure Xingqiu is a part of every rotation is important to keep Amp Tao running efficiently and effectively.
+Amplification Tao comps function around enabling Hu Tao to proc as many Vaporize and Melt reactions as possible. At first glance, this is no different from other Pyro carries \(Diluc and Klee\) with their Vaporize compositions, but Hu Tao has the added benefit of having slow enough of Pyro application to actively Vaporize. This comp has to be played around Xingqiu’s 21s Burst cooldown, making sure Xingqiu is a part of every rotation is important to keep Amp Tao running efficiently and effectively.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Unit</th>
+      <th style="text-align:left">Unit</th>
       <th style="text-align:left">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/hutao (1).png" alt/>
+          <img src="../../.gitbook/assets/hutao (1) (1).png" alt/>
         </p>
         <p><b>Hu Tao</b>
         </p>
@@ -234,7 +234,7 @@ Amplification Tao comps function around enabling Hu Tao to proc as many Vaporize
         around depending on the time you put into her.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/xingqius-left-rainsword.png" alt/>
         </p>
@@ -258,13 +258,13 @@ For the first fill slot, you can use a variety of characters depending on the ty
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Unit</th>
+      <th style="text-align:left">Unit</th>
       <th style="text-align:left">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/bennett.png" alt/>
         </p>
@@ -278,7 +278,7 @@ For the first fill slot, you can use a variety of characters depending on the ty
         Bonus and low HP damage on her Ascension passive and Spirit Soother.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/xiangling.png" alt/>
         </p>
@@ -295,9 +295,9 @@ For the first fill slot, you can use a variety of characters depending on the ty
         consistency, with C6 XQ, you can do N1C for higher damage.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <img src="../../.gitbook/assets/ganyu (1).png" alt/>
-        <br /><b>Ganyu</b> 
+        <br /><b>Ganyu</b>
       </td>
       <td style="text-align:left">For whales or mobile player, and those who have a spare Ganyu that they
         do not need or want to slot as the main DPS on their 2nd Abyss team. Ganyu
@@ -311,9 +311,9 @@ For the first fill slot, you can use a variety of characters depending on the ty
         her potential.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <img src="../../.gitbook/assets/kaeya.png" alt/>
-        <br /><b>Kaeya</b> 
+        <br /><b>Kaeya</b>
       </td>
       <td style="text-align:left">Since Hu Tao does not shatter on attack unlike Klee and Diluc, Hu Tao
         can be run in a Melt comp for a higher damage ceiling than Vape, while
@@ -331,27 +331,27 @@ For the first fill slot, you can use a variety of characters depending on the ty
 
 ![](../../.gitbook/assets/image%20%287%29.png)
 
-Hu Tao has a wide cast of supports that she can effectively utilize with her augmenters. 
+Hu Tao has a wide cast of supports that she can effectively utilize with her augmenters.
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Unit</th>
+      <th style="text-align:left">Unit</th>
       <th style="text-align:left">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/sucrose.png" alt/><b>Worse Venti </b>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/sucrose.png" alt/><b>Worse Venti</b>
       </td>
-      <td style="text-align:left">Sucrose<b> </b>is valuable as an Elemental Mastery battery and sees more
-        value here with Bennett or Xiangling in her third slot. When you use Sucrose,
+      <td style="text-align:left">Sucrose is valuable as an Elemental Mastery battery and sees more value
+        here with Bennett or Xiangling in her third slot. When you use Sucrose,
         you can forgo EM investments if your Sucrose is strong enough. These compositions
         value a hyper-invested Hu Tao to avoid running out of steam.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/chongyun.png" alt/>
         </p>
@@ -367,7 +367,7 @@ Hu Tao has a wide cast of supports that she can effectively utilize with her aug
         recommended for C1 Hu Tao and above users.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/diona.png" alt/>
         </p>
@@ -381,7 +381,7 @@ Hu Tao has a wide cast of supports that she can effectively utilize with her aug
         dodge. Heavily recommended for C0 Hu Tao users.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/zhongli.png" alt/>
         </p>
@@ -395,7 +395,7 @@ Hu Tao has a wide cast of supports that she can effectively utilize with her aug
         aura gauges are not depleted too fast.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/venti2.png" alt/>
         </p>
@@ -407,22 +407,19 @@ Hu Tao has a wide cast of supports that she can effectively utilize with her aug
         he will grief Hu Tao depending on his level and the content.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/mona.png" alt/>
         </p>
         <p><b>Mona</b>
         </p>
       </td>
-      <td style="text-align:left">
-        <p></p>
-        <p>Mona becomes a very viable option with Hu Tao&apos;s strong Q scaling.
-          Mona and Bennett are a famous nuke duo, and they transfer their specialty
-          well. With proper setup around Hu Tao Q, you can hit some great bursts.</p>
-      </td>
+      <td style="text-align:left">Mona becomes a very viable option with Hu Tao&apos;s strong Q scaling.
+        Mona and Bennett are a famous nuke duo, and they transfer their specialty
+        well. With proper setup around Hu Tao Q, you can hit some great bursts.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/jean.png" alt/>
         </p>
@@ -443,13 +440,13 @@ Turbo Tao’s gameplay and win condition revolves around abusing Fischl Turbo me
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Unit</th>
+      <th style="text-align:left">Unit</th>
       <th style="text-align:left">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/hutao (1).png" alt/>
         </p>
@@ -462,7 +459,7 @@ Turbo Tao’s gameplay and win condition revolves around abusing Fischl Turbo me
         is what makes or breaks the composition.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/oz.png" alt/>
         </p>
@@ -486,14 +483,14 @@ Core of all OL Turbo Tao comps. Xiangling is still generally underrated as a uni
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Units</th>
+      <th style="text-align:left">Units</th>
       <th style="text-align:left">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">&lt;b&gt;&lt;/b&gt;
-        <img src="../../.gitbook/assets/xingqiu.png" alt/>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;
+        <img src="../../.gitbook/assets/xingqiu (1).png" alt/>
         <br /><b>Xingqiu</b>
       </td>
       <td style="text-align:left">Unlike most other non-turbo applications of using XQ for setting up vapes,
@@ -505,7 +502,7 @@ Core of all OL Turbo Tao comps. Xiangling is still generally underrated as a uni
         XL are definitely worth missing out on some of the overloads.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/beidou.png" alt/>
         </p>
@@ -533,14 +530,14 @@ Every Superconduct Turbo Tao comp uses Fischl and Kaeya. Kaeya is a must in SC T
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Unit</th>
+      <th style="text-align:left">Unit</th>
       <th style="text-align:left">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/ganyu (1).png" alt/>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/ganyu (1) (1).png" alt/>
         <br /><b>Ganyu</b>
       </td>
       <td style="text-align:left">The most stable composition, aura wise. Ganyu and Kaeya provide enough
@@ -550,9 +547,9 @@ Every Superconduct Turbo Tao comp uses Fischl and Kaeya. Kaeya is a must in SC T
         investment + C1.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;
-          <img src="../../.gitbook/assets/diona.png" alt/><b> </b>
+          <img src="../../.gitbook/assets/diona (1).png" alt/>
         </p>
         <p><b>Diona</b>
         </p>
@@ -564,7 +561,7 @@ Every Superconduct Turbo Tao comp uses Fischl and Kaeya. Kaeya is a must in SC T
         higher Pyro application comes with higher damage potential.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/xingqiu.png" alt/>
         </p>
@@ -592,13 +589,13 @@ Surprisingly, pure Pyro is actually viable. Testings have shown even with the la
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Team Composition</th>
+      <th style="text-align:left">Team Composition</th>
       <th style="text-align:left">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <img src="../../.gitbook/assets/image (27).png" alt/>
         <br /><b>Triple Pyro</b>
       </td>
@@ -607,7 +604,7 @@ Surprisingly, pure Pyro is actually viable. Testings have shown even with the la
         in the last slot for Viridescent Venerer.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="../../.gitbook/assets/image (25).png" alt/>
         </p>
@@ -635,24 +632,22 @@ Hu Tao, not only at C6, has an incredibly strong burst that scales well and impo
 
 | Team Composition | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/image%20%288%29.png)  | The current world record speedrun comp. Sucrose provides VV and EM for Hu Tao to oneshot everything with her Burst. Ganyu is generally the best cryo applicator, but Chongyun is a viable alternative in single target scenarios. |
-| ![](../../.gitbook/assets/image%20%2826%29.png)  | The usual double Vape speedrun comp. However, instead of Bennett proc-ing Mona’s Bubble, it's Hu Tao. Childe can be replaced by Sucrose if the goal is to boost Hu Tao’s numbers as high as possible. |
+| ![](../../.gitbook/assets/image%20%288%29.png) | The current world record speedrun comp. Sucrose provides VV and EM for Hu Tao to oneshot everything with her Burst. Ganyu is generally the best cryo applicator, but Chongyun is a viable alternative in single target scenarios. |
+| ![](../../.gitbook/assets/image%20%2826%29.png) | The usual double Vape speedrun comp. However, instead of Bennett proc-ing Mona’s Bubble, it's Hu Tao. Childe can be replaced by Sucrose if the goal is to boost Hu Tao’s numbers as high as possible. |
 
-## **How To Play Hu Tao** 
+## **How To Play Hu Tao**
 
 Hu Tao is similar to Xiao and Ganyu, in the sense that she was designed with very specific limiters on her capability as a main DPS. Like Ganyu's aiming and Charged Attacks or Xiao's battery issues and greediness, Hu Tao comes with a suite of problems that have to be addressed. She cannot just spam Charged Attacks without thinking because of how unwieldy the dash is, so you have to perform jump cancels at C0, or dash cancels at C1. It is not recommended to dash cancel without C1, as you can only perform 4-5 of them without the stamina saved from her constellation 1.
 
-{% embed url="https://imgur.com/PWQt6Sx" %}
+{% embed url="https://imgur.com/PWQt6Sx" caption="" %}
 
 On top of the Charged Attack cancels, she also has input buffering mechanics that allow her to input very quick attacks. With non-spam inputs, as in one click per attack, Hu Tao can cancel the animation of her second attack \(N2\) with a Charged Attack to perform her N2C combo.
 
-{% embed url="https://imgur.com/z7kGCGB" %}
+{% embed url="https://imgur.com/z7kGCGB" caption="" %}
 
-It is in general,  a straight damage increase directly from the frames saved from jumping or dashing after she blinks after her Charged Attack or indirectly from avoiding the massive displacement from her Charged Attack. In terms of efficiency, the best combos to do are her N1C, which is the most stamina hungry, N2C, which has the theoretical highest amount of damage, and her N3C, which has the most AoE and Hydro application with Xingqiu's burst. As for timing, Hu Tao's Charged Attack will always go through if the attack is cancelled after she blinks off screen.
+It is in general, a straight damage increase directly from the frames saved from jumping or dashing after she blinks after her Charged Attack or indirectly from avoiding the massive displacement from her Charged Attack. In terms of efficiency, the best combos to do are her N1C, which is the most stamina hungry, N2C, which has the theoretical highest amount of damage, and her N3C, which has the most AoE and Hydro application with Xingqiu's burst. As for timing, Hu Tao's Charged Attack will always go through if the attack is cancelled after she blinks off screen.
 
-{% embed url="https://imgur.com/MrtQfVD" %}
-
-
+{% embed url="https://imgur.com/MrtQfVD" caption="" %}
 
 ## **Changelog**
 

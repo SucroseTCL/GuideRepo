@@ -18,8 +18,6 @@ This guide was written by ArchedNosi\#1484 of [LisaMains!](https://discord.gg/5S
 
 ## Learning Lisa - A mechanically in-depth Lisa Guide by ArchedNosi\#1484
 
-
-
 ![](https://lh4.googleusercontent.com/OJJAy-hxZ4WwN52faW8z7mbs2K1ekqBlkMArJB4af2VXNsgxvNvyco0tfCg_34kqhBAjpZu6cRY-HneXWEZzmHWFz9P0RwGt2tDxqkqgn9QKDBGiEzyIN1ETK5a9b0cJ_CsS70wA)
 
 Original guide [here ](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#)
@@ -44,7 +42,7 @@ Visually, the Mona Mains’ “Astrological Guide to Mona Megistus”’s design
 * Join the Subreddit here! 
   * [Lisa Mains Subreddit](https://www.reddit.com/r/Lisa_Mains)
 
-Thanks to the members of the Lisa Mains Discord for the help in the creation of this document! 
+Thanks to the members of the Lisa Mains Discord for the help in the creation of this document!
 
 Some clips/gifs were sourced there!
 
@@ -59,8 +57,7 @@ Early on in the game, every player is given three free 4\* units: Amber, Kaeya, 
 
 * This is true, but even those that say this don’t know how complex Lisa truly is, this document goes over everything about Lisa.
 
-**In all honesty, Lisa does fall off late game compared to other units, but she has an overly complex kit that some people enjoy greatly.**  
-
+**In all honesty, Lisa does fall off late game compared to other units, but she has an overly complex kit that some people enjoy greatly.**
 
 _With those said, this message serves as a reminder that all Units in Genshin Impact can be built and ‘viable’ to an extent._
 
@@ -111,7 +108,7 @@ Words that are formatted like so are clickable links/headers.
 
 _**&gt; “Lisa is only good at C6.”  
 &gt; “Lisa takes too long to set up.”**_  
-These two are the biggest misconceptions. Once you learn how to efficiently stack 3 Conductive Stacks with a single Press E \([Lisa's Bounce Tech](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#heading=h.ra4m0trokjgr)\), her relative effectiveness without C6 is **much** more apparent. As you get more familiar with her kit, ‘setting up’ will take up the same time as any other character would. 
+These two are the biggest misconceptions. Once you learn how to efficiently stack 3 Conductive Stacks with a single Press E \([Lisa's Bounce Tech](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#heading=h.ra4m0trokjgr)\), her relative effectiveness without C6 is **much** more apparent. As you get more familiar with her kit, ‘setting up’ will take up the same time as any other character would.
 
 * C6 is still her best constellation and a **VERY good** powerboost though.
 * C1 is also a solid contender _\(its description is false ;\)_ \).
@@ -120,7 +117,7 @@ _**&gt; “Lisa’s 3-Stack Hold E takes too long to execute.”**_
 In a similar vein to the previous claims, a properly maximized Hold E takes advantage of being able to quickly stack using [Lisa's Bounce Tech](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#heading=h.ra4m0trokjgr). Additionally, some people are unaware that a **Hold E can be released when the inner circle aligns with the outer radius**; this literally takes 2 seconds.
 
 _**&gt; “Lisa’s Ult has bad knockback.”**_  
-Colloquially, people assume her Ult innately knockbacks enemies. **This is false**, in actuality, connections from her Ult act as mini-staggers, and only stagger on smaller mobs. Her ‘infamous knockback’ people think they know about is derived from enemies being airborne. 
+Colloquially, people assume her Ult innately knockbacks enemies. **This is false**, in actuality, connections from her Ult act as mini-staggers, and only stagger on smaller mobs. Her ‘infamous knockback’ people think they know about is derived from enemies being airborne.
 
 If airborne enemies are hit from her Ult , they get staggered and suspended mid-air. It looks like a knockback, but it is just the airborne enemy getting staggered until it exits the radius of her Ult.
 
@@ -173,7 +170,7 @@ Luckily, some of Lisa’s most redeeming factors about her kit/playstyle is that
 
 ## Lisa's Kit
 
-### Normal: Lightning Touch 
+### Normal: Lightning Touch
 
 ![](https://lh3.googleusercontent.com/z8GtMChYSunWlH_MR7yhctzyvbumRvq51XfL39-aIvgJOFTsDHNQlm4s_5nXFlTBKLWkZ8TtE41DAaQ9QJU_fLLRAilZ6glwvrhoU7yRjtJnusdjNRP5i6yB1MAyNPQbJauPwJtM)
 
@@ -191,8 +188,6 @@ Consists of: **Normal Attack, Charged Attack, and Plunge Attack**
   * In succession, Lisa’s first three attacks are in a quick string, with the fourth following after a brief teleport.
   * All of Lisa’s normal attacks _\(Normal/Charged/Plunge\)_ apply a **Weak Electro** aura, or [1 Electro Gauge Unit \(1GU Electro\) with 'A' Decay Rate \(1A\)](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory).
 
-
-
 ![Normal Attack](https://lh6.googleusercontent.com/2MSqv7QZQbZzOHanvGQMhSzr8sYwe7BAx7KDgVaaGBZHa8NDCEihcDarpBgbRS-O09BP81RzHJkn5aj01XU6AzERB3CoV7R_5uCQ_AIKx-ZC3VMifZiDeLdtMNpcdDczKd1lXyVP)
 
 * **Charged Attack:** _Consumes a certain amount of Stamina to deal Electro DMG after a short casting time._ A very wide ‘conic’ Electro DMG attack costing 50 Stamina.
@@ -204,7 +199,7 @@ Consists of: **Normal Attack, Charged Attack, and Plunge Attack**
 
 ![Where the attack is placed visually is relative to Lisa&apos;s angle of elevation.](https://lh5.googleusercontent.com/Kj9zOwvJoHrbTeLAIbkKvWL3sbHt0YURi_l5sK4XWsoImmS-qHegC5syt047ado42oI9BItUemRerrT_oVqhiNO36u4VfLRDLCdXNa8J7v70piyIeBeOnvYHwTxbaswnZPJotJEJ)
 
-In the screenshot below, Lisa’s Charged Attack is placed visually above the hilichurl, however, it **still connects**. 
+In the screenshot below, Lisa’s Charged Attack is placed visually above the hilichurl, however, it **still connects**.
 
 * This is because the actual hitbox of her Charged Attack is placed on the terrain that the targeted mob is on. \(Diagram below\)
 
@@ -217,13 +212,11 @@ Also, this hitbox **cannot be placed above** Lisa.
 
 ![](https://lh6.googleusercontent.com/L_mp_UlB1vUKdfuSutgB6HKckRvm05iQBwn86S5qZhpsS3ccJ6IceyGG14S-jLITmAhmUOu7xJIEauIappmqqSllig9fb50RHDf4vDiC38uO2ytgoCPrW6ayds3jIimLPZa6Op-h)
 
-
-
 ![Breakdown of the GIF above](https://lh5.googleusercontent.com/nZHIhxZ3st4cK3wPCN5X0ZtKLRqBCtgXx0rBe9kKgm7Psu5wUM6Ziy3UosLwmDD5bUqL-9jx25Svgyg_t4WFZzPIvRENQgzby_iptGVkVF2G0aCK5YdiuYmLwm6skooqzayzEDfT)
 
 ![An extreme example of the visuals not being the hitbox](https://lh6.googleusercontent.com/r8PPRT0nG5zDkWTaC82srFUPoY9nSCwpjfiGXk6Bb3HtG7_41s44Ab12ki7Lv73qQzeZh_TBtU4oaU3x68-y52j7-sDaCHUBJT_2Rm8obC2M3h3q-q-bZBHWquc0kZzSmk90zvBR)
 
-Even though it is placed on nearby terrain, the hitbox **cannot be rotated** to perfectly match the terrain, it can only be rotated by where it is relative to Lisa _\(Only Left-Right, can’t be rotated Up-Down, or Clockwise-C._ ****_Clockwise\)._
+Even though it is placed on nearby terrain, the hitbox **cannot be rotated** to perfectly match the terrain, it can only be rotated by where it is relative to Lisa _\(Only Left-Right, can’t be rotated Up-Down, or Clockwise-C._ _\*\*Clockwise\)._
 
 ![](https://lh6.googleusercontent.com/ncp40mYGm1qs2GQ6NSwOa1Vg8x-6zJFKkq7n3wwUVFqSh1kSeYCEvDuXjDwFIwsm-P49vEJF6t-CQcB0z0MeZoovj0Eiu1xW7y6Q5-pGwqWTI6U9yBeqGo3ohfds-k0Sbzl8dG88)
 
@@ -241,7 +234,7 @@ Even though it is placed on nearby terrain, the hitbox **cannot be rotated** to 
 
 Consists of a **Press** and **Hold** variant.
 
-* **Press** __\(1 second CD\)_: Releases a homing lightning orb. On hit, it deals Electro DMG, and applies a stack of the Conductive status \(Max 3 stacks\) to opponents in a small AoE._
+* **Press** _\_\(1 second CD\)_: Releases a homing lightning orb. On hit, it deals Electro DMG, and applies a stack of the Conductive status \(Max 3 stacks\) to opponents in a small AoE.\_
   * **Damage Value at Talent 6%:**
     * 112%
   * **No particles** are created. 
@@ -313,7 +306,7 @@ Consists of an **Initial Attack** and a lingering **Field**. \(80 Energy\)
 ![](https://lh3.googleusercontent.com/eXLdNiM-6zFqktu3UbhrpxgVpfQtPgCDNPy7j59R6Dtp22GSrLlkME2dkiJ0Jw0lWdYoV-YWCYkzGWvDIvQJGOevq9vR7l6MAVhXpL4t2Yb_0KrIBTXQIjuwBiGKaR07aICDh_PP)
 
 _Hits by Charged Attacks apply Violet Arc's Conductive status to opponents._  
-****Upon hitting mobs with Lisa’s **Charged Attack**, add an **additional Conductive Stack** to tagged mobs.
+**\*\*Upon hitting mobs with Lisa’s** Charged Attack**, add an** additional Conductive Stack\*\* to tagged mobs.
 
 ![](https://lh6.googleusercontent.com/3__Fw8qJzylu5ujxft0DDhhQB_5YE96arWak-is1DfpQpQZdj5P7ED4b2jJ2q84Ly-cabIH2NTVxEzxWJ531zOej1KcWX_JNh6fYWgqlpFUY-i86xBIYgDlhTEKGFfV1XGyqgE4E)
 
@@ -345,8 +338,6 @@ Many of Lisa’s Constellations are good to very good.
 **Ranking from Best to Worst**
 
 * **C6 &gt; C1 = C4 ≥ C5 &gt; C3 &gt; C2**
-
-
 
 ### **C1: Infinite Circuit**
 
@@ -436,8 +427,7 @@ _**People tend to say Lisa only works at**_ [_**C6**_](https://docs.google.com/d
 
 _And as for a Sub Carry scenario, it removes the time to take Lisa to set up, which is virtually 1-2 seconds extra._
 
-_\(Constellations with \* are the **biggest spikes**, others are still good\)_  
-
+_\(Constellations with \* are the **biggest spikes**, others are still good\)_
 
 #### **Sub Carry**
 
@@ -504,9 +494,10 @@ _\(Including Hold Es; Hold Es will be calibrated at 3 Stacks unless specified\)_
 _\(With C6/Enemies are at 3 Stacks\)_
 
 * **Swap in → Hold E \(292%/sec\)**
+
   * This isn’t surprising. If you have C6 or enemies are pre-stacked to 3, Lisa’s scaling is mega chunky.
 
- ****_\(W/o C6/Enemies are at no stacks and get stacked to 2 or 3\)_
+  _\*\*\(W/o C6/Enemies are at no stacks and get stacked to 2 or 3\)_
 
 * **Swap in FROM Pyro/Cryo → Press E → N2 → Hold E \(216%/sec or 240%/sec\)**
   * This takes advantage of Lisa’s bouncing and is the most efficient for rotations.
@@ -522,7 +513,7 @@ There's a bunch!
 
 In the example shown above, Violet Arc was tapped once, yet applied 3 Conductive Stacks to most of the 6 Hilichurls.
 
- This was because of the ‘_**Hidden Bounce**_’ Mechanic of Violet Arc.
+This was because of the ‘_**Hidden Bounce**_’ Mechanic of Violet Arc.
 
 * Basically, the enemy originally tagged by Violet Arc’s projectile is stacked once and outputs a small radius. Mobs that are within said radius are also stacked and output the same radius.
   * This effect can chain.
@@ -541,7 +532,7 @@ _**This elemental effect can be further developed if Overload is proc-ed in a Py
 
 * _**A similar situation would happen if Superconduct is proc-ed in a Cryo environment, like Frozen Water.**_
 
- _\(Both examples on the Left\)_
+  _\(Both examples on the Left\)_
 
 #### **Pyro/Overload:**
 
@@ -927,7 +918,7 @@ _**2 Exile + 2 Exile/2 Scholar**_
 
 #### Weapons \(NOT TESTED YET\)
 
-The weapons listed here are solely focused on the fact that Lisa will be catering a Support/Enabler role.   
+The weapons listed here are solely focused on the fact that Lisa will be catering a Support/Enabler role.  
 These weapons are not ranked in any means nor are their damage values being compared.
 
 * It should be stated that this section is only comparing weapons rather than giving a full overview on each weapon.
@@ -964,9 +955,9 @@ _Thrilling Tales of Dragon Slayers \(TToDS\)_
 
 ## Team Compositions
 
-As stated previously, Lisa as a unit thrives mainly as a Sub Carry, dealing ample amounts of damage on swaps. Likewise, many other units are able to achieve a similar effect, as a result, these types of teams can be heavily variable and versatile. 
+As stated previously, Lisa as a unit thrives mainly as a Sub Carry, dealing ample amounts of damage on swaps. Likewise, many other units are able to achieve a similar effect, as a result, these types of teams can be heavily variable and versatile.
 
-Her secondary role as a Main Carry will require Lisa to be the unit who will be 
+Her secondary role as a Main Carry will require Lisa to be the unit who will be
 
 on-field for the longest time comparatively. Given Lisa naturally gains EM, she would prefer to be placed in Taser compositions.
 
@@ -1000,10 +991,7 @@ _Because of how flexible these types of teams can be, there will be overlapping 
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/image (67).png" alt/>
-        </p>
-        <p></p>
+        <img src="../../.gitbook/assets/image (67).png" alt/>
       </td>
       <td style="text-align:left">
         <p>Bennett is widely known for his absurd attack boost and healing potential.
@@ -1049,66 +1037,16 @@ In Geo Teams, Ningguang is almost mandatory being a very reliable Geo Pivot Unit
 
 #### Revolver Geo-Slot
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Unit</th>
-      <th style="text-align:left">Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/image (100).png" alt/>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Out of these two possible Geo Units, Zhongli would be the preferred option
-        in a Swap Team. This is mainly because of his extensive synergy with Lisa.
-        Zhongli&#x2019;s Ult already does a lot of burst damage and this fits perfectly
-        as a quickswapper. His Jade Shield is useful as well; for Lisa, it gives
-        her a better poise and a universal shred that can benefit the team as a
-        whole.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (51).png" alt/>
-      </td>
-      <td style="text-align:left">Albedo can serve as a substitute for Zhongli if he is not available. His
-        Ult is generally fairly strong and does good burst damage. However, since
-        Albedo, by nature, offers more off-field damage, he will not be swapping
-        as much as to place a Solar Isotoma every so often.</td>
-    </tr>
-  </tbody>
-</table>
+| Unit | Notes |
+| :--- | :--- |
+| ![](../../.gitbook/assets/image%20%28100%29%20%281%29.png) | Out of these two possible Geo Units, Zhongli would be the preferred option in a Swap Team. This is mainly because of his extensive synergy with Lisa. Zhongli’s Ult already does a lot of burst damage and this fits perfectly as a quickswapper. His Jade Shield is useful as well; for Lisa, it gives her a better poise and a universal shred that can benefit the team as a whole. |
+| ![](../../.gitbook/assets/image%20%2851%29.png) | Albedo can serve as a substitute for Zhongli if he is not available. His Ult is generally fairly strong and does good burst damage. However, since Albedo, by nature, offers more off-field damage, he will not be swapping as much as to place a Solar Isotoma every so often. |
 
 **Other Alternatives**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Unit</th>
-      <th style="text-align:left">Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/image (66).png" alt/>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Out of these two possible Geo Units, Zhongli would be the preferred option
-        in a Swap Team. This is mainly because of his extensive synergy with Lisa.
-        Zhongli&#x2019;s Ult already does a lot of burst damage and this fits perfectly
-        as a quickswapper. His Jade Shield is useful as well; for Lisa, it gives
-        her a better poise and a universal shred that can benefit the team as a
-        whole.</td>
-    </tr>
-  </tbody>
-</table>
+| Unit | Notes |
+| :--- | :--- |
+| ![](../../.gitbook/assets/image%20%2866%29.png) | Out of these two possible Geo Units, Zhongli would be the preferred option in a Swap Team. This is mainly because of his extensive synergy with Lisa. Zhongli’s Ult already does a lot of burst damage and this fits perfectly as a quickswapper. His Jade Shield is useful as well; for Lisa, it gives her a better poise and a universal shred that can benefit the team as a whole. |
 
 **Electro-Based**
 
@@ -1119,48 +1057,11 @@ _The last slot becomes a flex slot; as such, not all units will be showcased bel
 
 #### Revolver Flex Slot
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Unit</th>
-      <th style="text-align:left">Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/image (100).png" alt/>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">As previously mentioned, Zhongli offers a lot to a Swap Team when along
-        with Lisa. The notes above still apply here.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (70).png" alt/>
-      </td>
-      <td style="text-align:left">Now enters Venti. Notably, Venti stands as an ideal Quickswapper, having
-        a short CD on his E as well as an impactful Ult. When infused with either
-        Pyro or Electro in this team, Lisa will always be able to make use of it.
-        An Electro infused Ult garners more Electro Damage with 4VV, and a Pyro
-        infused Ult benefits slightly from Lisa&#x2019;s ability to do Overload
-        damage (albeit not preferred).</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (68).png" alt/>
-      </td>
-      <td style="text-align:left">Mona works exceptionally well in here to persist as a burster, buffer,
-        and as assistance in additional Electro-Charged damage. Since both Lisa
-        and Mona benefit greatly from Pyro-Applications (Lisa&#x2019;s Stacks and
-        Mona&#x2019;s Ult Vaporize), the two coexisting with one another do not
-        interfere at all. A minimal Hydro-Applier, like Mona, can also help out
-        considerably if any units are wearing 4TS.</td>
-    </tr>
-  </tbody>
-</table>
+| Unit | Notes |
+| :--- | :--- |
+| ![](../../.gitbook/assets/image%20%28100%29.png) | As previously mentioned, Zhongli offers a lot to a Swap Team when along with Lisa. The notes above still apply here. |
+| ![](../../.gitbook/assets/image%20%2870%29.png) | Now enters Venti. Notably, Venti stands as an ideal Quickswapper, having a short CD on his E as well as an impactful Ult. When infused with either Pyro or Electro in this team, Lisa will always be able to make use of it. An Electro infused Ult garners more Electro Damage with 4VV, and a Pyro infused Ult benefits slightly from Lisa’s ability to do Overload damage \(albeit not preferred\). |
+| ![](../../.gitbook/assets/image%20%2868%29%20%281%29.png) | Mona works exceptionally well in here to persist as a burster, buffer, and as assistance in additional Electro-Charged damage. Since both Lisa and Mona benefit greatly from Pyro-Applications \(Lisa’s Stacks and Mona’s Ult Vaporize\), the two coexisting with one another do not interfere at all. A minimal Hydro-Applier, like Mona, can also help out considerably if any units are wearing 4TS. |
 
 ### **Main Carry Oriented \(Pseudo-Taser\)**
 
@@ -1170,94 +1071,21 @@ In this archetype, Lisa will contribute to the majority of a team’s on-field t
 
 _Do keep in mind 4TF won’t proc as often due to it being finicky with Lisa’s Electro application._
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Unit</th>
-      <th style="text-align:left">Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/image (87).png" alt/>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Lisa. With her innate growth of EM, Lisa&apos;s best Main Carry archetype
-        would be those focusing around the Electro-Charged reaction and others.
-        She also gains energy at a surprisingly adequate rate with C1. Lisa does
-        not have to play long-ranged.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Conductor</td>
-      <td style="text-align:left">This term will refer to Pyro/Cryo units. Like with the majority of teams
-        that want to include Lisa, <a href="https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#heading=h.frcwzfpj3t4c">Lisa really does enjoy having a Pyro/Cryo to radiate stacks off of</a>.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Hydro</td>
-      <td style="text-align:left">Can&#x2019;t have Electro-Charged without a Hydro unit, can you?</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Utility</td>
-      <td style="text-align:left">This term broadly covers other units that can be slotted here. It loosely
-        umbrellas other Electro Supports, Anemo Supports, or useful Supports in
-        general.</td>
-    </tr>
-  </tbody>
-</table>
+| Unit | Notes |
+| :--- | :--- |
+| ![](../../.gitbook/assets/image%20%2887%29.png) | Lisa. With her innate growth of EM, Lisa's best Main Carry archetype would be those focusing around the Electro-Charged reaction and others. She also gains energy at a surprisingly adequate rate with C1. Lisa does not have to play long-ranged. |
+| Conductor | This term will refer to Pyro/Cryo units. Like with the majority of teams that want to include Lisa, [Lisa really does enjoy having a Pyro/Cryo to radiate stacks off of](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#heading=h.frcwzfpj3t4c). |
+| Hydro | Can’t have Electro-Charged without a Hydro unit, can you? |
+| Utility | This term broadly covers other units that can be slotted here. It loosely umbrellas other Electro Supports, Anemo Supports, or useful Supports in general. |
 
 #### Conductor Slot
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Unit</th>
-      <th style="text-align:left">Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/image (67).png" alt/>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Bennett appears once more. If it hasn&#x2019;t been clear enough, Bennett
-        synergizes so much with Lisa that he will always be a good option, and
-        especially with his Pyro application.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (69).png" alt/>
-      </td>
-      <td style="text-align:left">Diona serves as a Healer that can apply Cryo fairly readily with her Ult
-        and/or her E. Whilst it isn&apos;t a frequent Cryo application, any at
-        all is enough for Lisa to capitalize upon.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (90).png" alt/>
-      </td>
-      <td style="text-align:left">Unlike the other two above, Xiangling offers as a stable Pyro applicant
-        with her Ult. Including Xiangling will likely result in less EC procs and
-        more Overload/Vaporize procs however. She also has a costly ult that can
-        be minimally remedied by later including Fischl, as a means of Turbo-ing,
-        do keep in mind that Lisa will be reacting a lot more than Oz will.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (94).png" alt/>
-      </td>
-      <td style="text-align:left">Likewise, Kaeya&#x2019;s inclusion is similar in vain to Xiangling&#x2019;s
-        inclusion: offering a reliable Cryo applicant in his Ult. Similarly, inputting
-        Fischl can be considered, but it becomes less necessary as his Ult is a
-        60-cost. Again, there will be less EC procs.</td>
-    </tr>
-  </tbody>
-</table>
+| Unit | Notes |
+| :--- | :--- |
+| ![](../../.gitbook/assets/image%20%2867%29%20%281%29.png) | Bennett appears once more. If it hasn’t been clear enough, Bennett synergizes so much with Lisa that he will always be a good option, and especially with his Pyro application. |
+| ![](../../.gitbook/assets/image%20%2869%29.png) | Diona serves as a Healer that can apply Cryo fairly readily with her Ult and/or her E. Whilst it isn't a frequent Cryo application, any at all is enough for Lisa to capitalize upon. |
+| ![](../../.gitbook/assets/image%20%2890%29.png) | Unlike the other two above, Xiangling offers as a stable Pyro applicant with her Ult. Including Xiangling will likely result in less EC procs and more Overload/Vaporize procs however. She also has a costly ult that can be minimally remedied by later including Fischl, as a means of Turbo-ing, do keep in mind that Lisa will be reacting a lot more than Oz will. |
+| ![](../../.gitbook/assets/image%20%2894%29.png) | Likewise, Kaeya’s inclusion is similar in vain to Xiangling’s inclusion: offering a reliable Cryo applicant in his Ult. Similarly, inputting Fischl can be considered, but it becomes less necessary as his Ult is a 60-cost. Again, there will be less EC procs. |
 
 #### Hydro Slot
 
@@ -1265,121 +1093,22 @@ With Hydro units, keeping up an Electro aura for 4TS becomes much easier to cond
 
 _Barbara can be used as a last-resort/early-game option. Obviously it’s not preferred however._
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Unit</th>
-      <th style="text-align:left">Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/image (61).png" alt/>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Xingqiu can be argued as the centerpiece between EC teams, allowing, what
-        is essentially, a Hydro Turret to be on field. Although his Hydro aura
-        fails to overtake Lisa&#x2019;s Electro aura for Lisa to proc reactions
-        (4TF), his passive echo damage is rampant and works well when Lisa is on-field.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (68).png" alt/>
-      </td>
-      <td style="text-align:left">In an EC team, Mona can act as a mini-Hydro applier with her Skill, intermittently
-        spreading Hydro for reactions. However, her rate of application is not
-        as preferable; if you are considering to include Mona in this archetype,
-        an Anemo Support should be utilized as well for infusion.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (91).png" alt/>
-      </td>
-      <td style="text-align:left">Tartaglia can be inputted in an EC team with Lisa, do be noted that he
-        really only can be considered when he is <b>C4+</b>. With Tartaglia&#x2019;s <b>C4</b>,
-        he technically can amass for the longest Hydro aura uptime of potentially
-        24 seconds, just that it&apos;s only on four ticks of application. Comparatively,
-        Xingqiu or Mona would definitely outsuit him in this regard.</td>
-    </tr>
-  </tbody>
-</table>
+| Unit | Notes |
+| :--- | :--- |
+| ![](../../.gitbook/assets/image%20%2861%29.png) | Xingqiu can be argued as the centerpiece between EC teams, allowing, what is essentially, a Hydro Turret to be on field. Although his Hydro aura fails to overtake Lisa’s Electro aura for Lisa to proc reactions \(4TF\), his passive echo damage is rampant and works well when Lisa is on-field. |
+| ![](../../.gitbook/assets/image%20%2868%29.png) | In an EC team, Mona can act as a mini-Hydro applier with her Skill, intermittently spreading Hydro for reactions. However, her rate of application is not as preferable; if you are considering to include Mona in this archetype, an Anemo Support should be utilized as well for infusion. |
+| ![](../../.gitbook/assets/image%20%2891%29.png) | Tartaglia can be inputted in an EC team with Lisa, do be noted that he really only can be considered when he is **C4+**. With Tartaglia’s **C4**, he technically can amass for the longest Hydro aura uptime of potentially 24 seconds, just that it's only on four ticks of application. Comparatively, Xingqiu or Mona would definitely outsuit him in this regard. |
 
 #### Utility Slot
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Unit</th>
-      <th style="text-align:left">Notes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/image (49).png" alt/>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Now Zhongli appears once more. This time, in an EC team with Lisa, his
-        presence is indicative of his supporting potential. As Zhongli is able
-        to provide a shield for Lisa&#x2019;s poise, an omnishred, and access to
-        4AP.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (98).png" alt/>
-      </td>
-      <td style="text-align:left">In a team where Lisa will be on-field the most, Albedo will function as
-        an additional source of echo damage sourcing from his Solar Isotoma. As
-        well as this, his shared EM from A4 will benefit Lisa&#x2019;s ability
-        to damage with reactions. He can hold 4AP too.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (71).png" alt/>
-      </td>
-      <td style="text-align:left">Fischl assists Lisa a plentiful amount in Taser teams, aside from Fischl&#x2019;s
-        C6 enabling a very stable rate of Electro application, her off-field damage
-        triumphs against single-targets. Additionally, with a conductor with good
-        Pyro/Cryo application, Oz will occasionally proc Overload/Superconduct
-        to semi-enable a <a href="https://library.keqingmains.com/characters/electro/fischl#turbo">Turbo</a> factor
-        in these teams, slightly ameliorating the high-energy cost Ults.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (73).png" alt/>
-      </td>
-      <td style="text-align:left">Beidou can be considered as an alternative to Fischl. Comparatively, Beidou
-        offers much more AoE damage and also grants an additional source of echo
-        damage from her Ult. Refunding Beidou&#x2019;s Ult in a timely manner will
-        involve the player to swap-parry often however.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (96).png" alt/>
-      </td>
-      <td style="text-align:left">When inputted in an EC team, Venti and another Hydro unit can make a Hydro-infused
-        Ult. This would act as the common Hydro applier and provide CC. CC will
-        allow for the grouping of mobs, this will make it easier for Lisa to radiate
-        stacks off of. 4VV and its 40% Elemental RES shred is also appreciated
-        as well.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (50).png" alt/>
-      </td>
-      <td style="text-align:left">In a similar case to Venti, Sucrose can provide many of the benefits that
-        Venti can, but differently. Likewise, with a Hydro unit, Sucrose can create
-        a Hydro-infused Ult. Whilst hers isn&#x2019;t as strong as Venti&#x2019;s,
-        it still remains enough for Lisa to take advantage of. Sucrose can also
-        hold 4VV for the team.</td>
-    </tr>
-  </tbody>
-</table>
+| Unit | Notes |
+| :--- | :--- |
+| ![](../../.gitbook/assets/image%20%2849%29.png) | Now Zhongli appears once more. This time, in an EC team with Lisa, his presence is indicative of his supporting potential. As Zhongli is able to provide a shield for Lisa’s poise, an omnishred, and access to 4AP. |
+| ![](../../.gitbook/assets/image%20%2898%29.png) | In a team where Lisa will be on-field the most, Albedo will function as an additional source of echo damage sourcing from his Solar Isotoma. As well as this, his shared EM from A4 will benefit Lisa’s ability to damage with reactions. He can hold 4AP too. |
+| ![](../../.gitbook/assets/image%20%2871%29.png) | Fischl assists Lisa a plentiful amount in Taser teams, aside from Fischl’s C6 enabling a very stable rate of Electro application, her off-field damage triumphs against single-targets. Additionally, with a conductor with good Pyro/Cryo application, Oz will occasionally proc Overload/Superconduct to semi-enable a [Turbo](https://library.keqingmains.com/characters/electro/fischl#turbo) factor in these teams, slightly ameliorating the high-energy cost Ults. |
+| ![](../../.gitbook/assets/image%20%2873%29.png) | Beidou can be considered as an alternative to Fischl. Comparatively, Beidou offers much more AoE damage and also grants an additional source of echo damage from her Ult. Refunding Beidou’s Ult in a timely manner will involve the player to swap-parry often however. |
+| ![](../../.gitbook/assets/image%20%2896%29.png) | When inputted in an EC team, Venti and another Hydro unit can make a Hydro-infused Ult. This would act as the common Hydro applier and provide CC. CC will allow for the grouping of mobs, this will make it easier for Lisa to radiate stacks off of. 4VV and its 40% Elemental RES shred is also appreciated as well. |
+| ![](../../.gitbook/assets/image%20%2850%29.png) | In a similar case to Venti, Sucrose can provide many of the benefits that Venti can, but differently. Likewise, with a Hydro unit, Sucrose can create a Hydro-infused Ult. Whilst hers isn’t as strong as Venti’s, it still remains enough for Lisa to take advantage of. Sucrose can also hold 4VV for the team. |
 
 ### Support Lisa
 
@@ -1406,11 +1135,9 @@ _**Tempus Fugit!~**_
 
 Or “_Time Flies_”, as Lisa’s constellation is aptly named, and time surely has flown since you’ve begun reading this guide. And maybe you too now have the knowledge equivalent of Sumeru Academia’s most distinguished graduate since the past two centuries.
 
-Let’s hope it was all worth a good and profitable read, and that it might have changed your view on Lisa as a character. If any of your questions remain to be unanswered or would like to suggest anything to improve upon, our [discord](http://discord.gg/5SYy4MPPCt) server is open to any comments over at \#guide⋅feedback, or you can contact me directly through my discord tag!  
-
+Let’s hope it was all worth a good and profitable read, and that it might have changed your view on Lisa as a character. If any of your questions remain to be unanswered or would like to suggest anything to improve upon, our [discord](http://discord.gg/5SYy4MPPCt) server is open to any comments over at \#guide⋅feedback, or you can contact me directly through my discord tag!
 
 _**Tempus Fugit, usque in finem.**_
 
-_**₪ ArchedNosi\#1484 ₪**_  
-
+_**₪ ArchedNosi\#1484 ₪**_
 

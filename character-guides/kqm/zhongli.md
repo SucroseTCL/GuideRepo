@@ -7,7 +7,7 @@ description: >-
 # Zhongli
 
 {% hint style="info" %}
-Visit [Zhongli Mains](%20https://discord.gg/3h5uepPXKr) for more in-depth analysis on the Geo Archon!
+Visit [Zhongli Mains](https://github.com/SucroseTCL/GuideRepo/tree/a8b22e1fd0df0ddab7f9f53f4f90b480b1110359/3h5uepPXKr/README.md) for more in-depth analysis on the Geo Archon!
 {% endhint %}
 
 ## Official Art
@@ -47,7 +47,7 @@ At level 70, a +20 flower, and talent level 6 in Dominus Lapidis, Zhongli is cas
 
 ### **Physical Carry**
 
-Physical carry Zhongli can make use of his global shred and abuse his fast auto attacks with Crescent Pike to push his physical damage further. With his buffs in 1.3, he has more room to deviate from Crescent Pike and can consider using Primordial Jade-Winged Spear or the Staff of Homa. 
+Physical carry Zhongli can make use of his global shred and abuse his fast auto attacks with Crescent Pike to push his physical damage further. With his buffs in 1.3, he has more room to deviate from Crescent Pike and can consider using Primordial Jade-Winged Spear or the Staff of Homa.
 
 * **Pros:**
   * R3 Crescent Pike is easily achievable, as the game rewards three northlander polearm prototypes.
@@ -64,8 +64,7 @@ Artesians\#0002
 Noahboy88\#8888  
 Coronaus\#0001  
 Finrod\#8406  
-IceKane\#0689  
-
+IceKane\#0689
 
 r/Zhonglimains  
 r/Keqingmains
@@ -154,12 +153,11 @@ This constellation has become a double edged sword for Zhongli with the release 
     <tr>
       <td style="text-align:left">Support</td>
       <td style="text-align:left">
-        <p><b>Archaic Petra (2) + Noblesse Oblige (2) </b>
+        <p><b>Archaic Petra (2) + Noblesse Oblige (2)</b>
         </p>
         <p>A strong bread and butter artifact set for Zhongli. Archaic Petra and
           Noblesse Oblige make swapping to Zhongli for a little more damage more
           palatable.</p>
-        <p></p>
         <p><b>Noblesse Oblige (4)</b>
         </p>
         <p>Zhongli makes a decent user of Noblesse Oblige for team damage.</p>
@@ -197,15 +195,15 @@ As for team compositions, his value extends far and wide. With stagger resistanc
 
 | Composition | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/image%20%2824%29.png)  | Zhongli as a support is pretty much a universally strong choice, however Ningguang carry with Zhongli support with any kind of passive damage like Fischl, Xiangling, Xingqiu, or Bennett is fantastic. Post 1.3, Ningguang with Zhongli have a Geo resonance that has a 15% DMG increase and a combined 40% Geo RES down, allowing these two to output similar damage to C0 Vaporize Diluc. |
+| ![](../../.gitbook/assets/image%20%2824%29.png) | Zhongli as a support is pretty much a universally strong choice, however Ningguang carry with Zhongli support with any kind of passive damage like Fischl, Xiangling, Xingqiu, or Bennett is fantastic. Post 1.3, Ningguang with Zhongli have a Geo resonance that has a 15% DMG increase and a combined 40% Geo RES down, allowing these two to output similar damage to C0 Vaporize Diluc. |
 
 ### **Physical Carry**
 
 For physical Zhongli, his combos for proper damage output changes on your choice of weaponry. For Crescent Pike users, optimal damage is using N4 cancels by sprinting after the spear kick. It is recommended to use Superconduct with Fischl and Geo resonance to push his damage profile further. For 5\* weapons, N4 spear kicks into a Charged Attack yield strong results. In general, his team compositions are fluid and you can take your pick of the litter in terms of sub-DPS units.
 
-There are several advanced combos that you can use to increase your damage profile. Not only can Zhongli do his N4 Spear Kick, he can also do N7 E taps, where his attack knocks back, and the E pillar will knock up small enemies for fall damage. Furthermore, he also has a Jump Plunge cancel ****that can follow up on his normal attack string.
+There are several advanced combos that you can use to increase your damage profile. Not only can Zhongli do his N4 Spear Kick, he can also do N7 E taps, where his attack knocks back, and the E pillar will knock up small enemies for fall damage. Furthermore, he also has a Jump Plunge cancel _\*\*_that can follow up on his normal attack string.
 
-{% embed url="https://imgur.com/a/bMWxi14" %}
+{% embed url="https://imgur.com/a/bMWxi14" caption="" %}
 
 \*\*\*\*
 

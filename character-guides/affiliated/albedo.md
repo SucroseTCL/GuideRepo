@@ -6,7 +6,7 @@ description: 'Learning Albedo - by Reydriar#8127'
 
 ![](../../.gitbook/assets/albedo-title.jpeg)
 
-![](../../.gitbook/assets/element_geo.png)
+![](../../.gitbook/assets/element_geo%20%281%29.png)
 
 ## **Preface**
 
@@ -106,7 +106,7 @@ A decent damage buff that leads to an overall damage increase of about 4% and 6.
 
 ### **Homuncular Nature**
 
-\*\*\*\*![](../../.gitbook/assets/albedo_homocularnature.png) ****
+\*\*\*\*![](../../.gitbook/assets/albedo_homocularnature.png) _\*\*_
 
 _Using Rite of Progeniture: Tectonic Tide increases the Elemental Mastery of nearby party members by 125 for 10s._
 
