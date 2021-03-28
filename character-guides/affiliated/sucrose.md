@@ -262,7 +262,7 @@ There are multiple concerns and interesting factoids about Sucrose that players 
 
 In addition to Sucrose’s passive talents sending Elemental Mastery to her team, **any other EM Sucrose gains can also be passed down to the team.** These EM increase Sucrose can gain can be things such as: Albedo’s Passive Talent 2 and Diona’s con-6 skill.
 
-Overall EM a team member can gain once everything is stacked can be     followed by this equation:
+Overall EM a team member can gain once everything is stacked can be  followed by this equation:
 
 > **50 + \[\(&lt;Sucrose EM&gt; + &lt;Additional Party EM Buffs&gt;\)×0.2\] + &lt;Additional EM Buffs&gt;**
 
