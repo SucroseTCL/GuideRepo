@@ -5,7 +5,7 @@ description: 'By EggsD#9603, Aided by Alchemist: Faranight#0001'
 # Sucrose
 
 {% hint style="info" %}
-This guide was written by the EggsD of the Sucrose Fan Club community. You can find the full document [here ](https://docs.google.com/document/d/1_CP10rKrEDyI7Kp6fYL0dPZPJEQ0qd0-6u3_VlG_2Pw/edit)and their [Discord here](https://discord.gg/SRgmCt4).
+This guide was written by the EggsD of the Sucrose Fan Club community. You can find the full document [here ](https://docs.google.com/document/d/1_CP10rKrEDyI7Kp6fYL0dPZPJEQ0qd0-6u3_VlG_2Pw/edit)and the [Discord here](https://discord.gg/SRgmCt4).
 {% endhint %}
 
 ## Official Art
@@ -158,7 +158,7 @@ Sucrose’s choice of weapons will depend greatly on what role she will be fulfi
 {% tab title="DPS Catalysts" %}
 | **Name** | **Description** |
 | :---: | :---: |
-| ![](https://lh6.googleusercontent.com/JXkseXosmSCcld81xw3NhGEUyk2zSRtDLDwm5TMLLV0rwuFyhq2TOD50cuGr2DjSfHgK-LyKc0b4nPmd_UsoB6_1O57gCI0PWEotN94qd8d3b75L5keXue2kaXKNHc8PS8YNjNw2)**Skyward Atlas**  | **In contention with the best DPS weapon for Sucrose. ATK% Substat with Elemental DMG bonus gives a substantial boost to Sucrose DPS. In addition, having a chance of physical DMG attack for a passive is an extra bonus.** |
+| ![](https://lh6.googleusercontent.com/JXkseXosmSCcld81xw3NhGEUyk2zSRtDLDwm5TMLLV0rwuFyhq2TOD50cuGr2DjSfHgK-LyKc0b4nPmd_UsoB6_1O57gCI0PWEotN94qd8d3b75L5keXue2kaXKNHc8PS8YNjNw2)**Skyward Atlas** | **In contention with the best DPS weapon for Sucrose. ATK% Substat with Elemental DMG bonus gives a substantial boost to Sucrose DPS. In addition, having a chance of physical DMG attack for a passive is an extra bonus.** |
 | ![](https://lh5.googleusercontent.com/FUD7NTWjcNbE_TPqdxAJxjrn8U08QvPyQ0zty4wuPoUL1H-6iwyZqfX7K9bywlJRKetlyT-maaSwLI5Vi7iVkYtTzymbMOltbulKFDMAg6b_oUV6pPZMOAqNQGsveWszjkd1okvd)**Lost Prayers of Sacred Wind** | **The other best DPS weapon for Sucrose. Contrary to Skyward Atlas, this weapon gives more leeway for Sucrose to have a solid Critical DMG build. It also gives elemental bonus damage.** |
 | ![](https://lh5.googleusercontent.com/L3saDPCs6vXIFAn5nZPCTrWLWp-exwJA_Zkuf-VBsgmTVMk2XH9avWTEKRlw512s66-fwQoFHdttraCbhuG-pWlMUtF5XMXqLlij2oRYFbhFuVrfN05t4NpQ4PAhANrEEzNAeOOw)**Sacrificial Fragment** | **Despite being the best weapon for Sucrose EM build, giving Sucrose an extra E for her DPS is very solid. In addition, the EM substat works in harmony with reaction DPS and extra E skill charge leaves more opportunities to charge her burst. This weapon is just very good all around** |
 | ![](https://lh6.googleusercontent.com/spG106AY9zQ3eNaphDIiE9V7BNZavVUmQtv1c1Az2CaIUjJThoGiL6AiwHCSfoM_ZtRYj4t8KBeJQ1n33VFBlAhSBRl4isUQYFTIq-g3iOEgJRHxPELU0qgXpMmynn-3WDoHyCsb)**The Widsith** | **A very powerful DPS catalyst that can offer numbers comparable to its 5\* counterparts if you are willing to learn and play around its cooldown and effects.** |
@@ -173,36 +173,36 @@ Sucrose generally benefits a lot from sets that give her **EM, ER and Anemo bonu
 <table>
   <thead>
     <tr>
-      <th style="text-align:center"><b>Artifact Set</b>
+      <th style="text-align:left"><b>Artifact Set</b>
       </th>
-      <th style="text-align:center"><b>Description</b>
+      <th style="text-align:left"><b>Description</b>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">&lt;b&gt;&lt;/b&gt;
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;
         <img src="https://lh5.googleusercontent.com/cZHCsfEHHlaAuSRPQTlLh0poEOZTSpzVIST2pz2J3FdAVPSx8aKHtOHI5VB2Ng3-QOqKpoZn23UfJn-YKhT9zu1IaU6bwXogeKfTs6lkRBv2vuAv4s5z-vMIcz5wGw4AEmKnNpaf"
-        alt/><b>  x4 Viridiscent Venerer</b>
+        alt/> <b>x4 Viridiscent Venerer</b>
       </td>
-      <td style="text-align:center"><b>The De Facto artifact set for Sucrose regardless of any type of build you&#x2019;re going for.</b> 15%
+      <td style="text-align:left"><b>The De Facto artifact set for Sucrose regardless of any type of build you&#x2019;re going for.</b> 15%
         additional anemo dmg and a whopping 60%+ swirl damage really benefits Sucrose
         in every way. Not to mention the element res 40% decrease on enemies just
         pushes Sucrose to full potential.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="https://lh5.googleusercontent.com/P4CaHbh63xZAvwgUQztWjc3kX9vLb9AmKRL6DF5Wtd-N5kHm6ONP_W5GZM7HPbahAY8N50uHBsMKAutXN77xKxghjOULX0YspPA2gd8CTrWoPI-dnb-xUAZm3gCJxY6cCqbHu8zu"
-          alt/> <b>x2 Viridiscent Venerer      +</b>
+          alt/> <b>x2 Viridiscent Venerer +</b>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;
           <img src="https://lh3.googleusercontent.com/OT-Hgyi8Km43_F66IiAMuWmAJPEiuh0MxRKtffUp58MpbCKlduG4boyRJP4HTBKbBCHn5AbjgGd2S_80dbJsrYi_OXttZpuzfTM0cRu65T9PRf5Hxr5kYPeLuYPs7zIyzLwlPBH3"
-          alt/><b>    x2 Gladiator&#x2019;s Finale</b>
+          alt/> <b>x2 Gladiator&#x2019;s Finale</b>
         </p>
       </td>
-      <td style="text-align:center">
-        <p><b>This is for raw DPS sucrose build, especially on team comps that you cannot really create some form of reaction frequently. <br /></b>
+      <td style="text-align:left">
+        <p><b>This is for raw DPS sucrose build, especially on team comps that you cannot really create some form of reaction frequently.<br /></b>
         </p>
         <p><b>Unfortunately this build will not take advantage of Swirls. Please only use this when you&#x2019;re sure you are taking the path of raw DPS Sucrose.</b>
           <br
@@ -211,10 +211,10 @@ Sucrose generally benefits a lot from sets that give her **EM, ER and Anemo bonu
       </td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="https://lh5.googleusercontent.com/P4CaHbh63xZAvwgUQztWjc3kX9vLb9AmKRL6DF5Wtd-N5kHm6ONP_W5GZM7HPbahAY8N50uHBsMKAutXN77xKxghjOULX0YspPA2gd8CTrWoPI-dnb-xUAZm3gCJxY6cCqbHu8zu"
-          alt/> <b>x2 Viridiscent Venerer    +</b>
+          alt/> <b>x2 Viridiscent Venerer +</b>
         </p>
         <p>
           <img src="https://lh6.googleusercontent.com/Cp03ecov-L0ZaXqvRwH7Zuz27029k8lzjbA2G_grsazWXYReFXZT1tYNgpE7V3XicZ2lsFDzJ6YJ4dnLhaiMgBMLllcau7F4gMbETOvKOR7OzSPVb5AU4Kd8kdaFMpseWe_Gmkpl"
@@ -223,11 +223,11 @@ Sucrose generally benefits a lot from sets that give her **EM, ER and Anemo bonu
         <p><b>Wanderer&#x2019;s Troupe</b>
         </p>
       </td>
-      <td style="text-align:center">This is mostly if you want to do just a little bit more EM effect. Nothing
+      <td style="text-align:left">This is mostly if you want to do just a little bit more EM effect. Nothing
         really new.</td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="https://lh3.googleusercontent.com/asg6X94uF0myldlDwnc0jJ3VF0HO1BpXZO0imTXMkVL3jk3LZroci7oKys86ALeZkBagzaTOCxmNqUBCO4xtG5UTnMHG6Gg_l5WzqxseliNWodH8rhWLInwVxwsuKZdKJS0VAuec"
           alt/> <b>x4</b>
@@ -235,12 +235,12 @@ Sucrose generally benefits a lot from sets that give her **EM, ER and Anemo bonu
         <p><b>Gambler</b>
         </p>
       </td>
-      <td style="text-align:center">This is a pretty niche build, and much more noticeable with C1 Sucrose
-        with Sacrificial Fragment.<b> When pieced correctly, you can proc both sacrificial fragment and gambler effect, pretty much giving you Four charges of Sucrose&#x2019;s elemental skill.</b>
+      <td style="text-align:left">This is a pretty niche build, and much more noticeable with C1 Sucrose
+        with Sacrificial Fragment. <b>When pieced correctly, you can proc both sacrificial fragment and gambler effect, pretty much giving you Four charges of Sucrose&#x2019;s elemental skill.</b>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center">
+      <td style="text-align:left">
         <p>
           <img src="https://lh4.googleusercontent.com/2ttUGNuwJi74whHbG88UFJlyY5beeBOTQ2drnkWFZT7FBKaL2UBHXjE4t3HRGmA1rI72qgYYGxI4hqAV492gMXncRoiFHR9I2cEshNZo7Dley2eKvds5ZbjVY7_p815LlHLqGf0Q"
           alt/><b>x4</b>
@@ -248,7 +248,7 @@ Sucrose generally benefits a lot from sets that give her **EM, ER and Anemo bonu
         <p><b>Thundering Fury</b>
         </p>
       </td>
-      <td style="text-align:center">This is another incredibly niche build. <b>If you create a team utilizing Fischl/Beidou on electro and Xingqiu on hydro, Sucrose will be able to compile the two reactions and trigger the 4-Thundering Fury CD reduction effect.</b> Yet
+      <td style="text-align:left">This is another incredibly niche build. <b>If you create a team utilizing Fischl/Beidou on electro and Xingqiu on hydro, Sucrose will be able to compile the two reactions and trigger the 4-Thundering Fury CD reduction effect.</b> Yet
         again, this will still not beat the 4-Viridescent Venerer</td>
     </tr>
   </tbody>
@@ -266,7 +266,7 @@ Overall EM a team member can gain once everything is stacked can be followed by 
 
 > **50 + \[\(&lt;Sucrose EM&gt; + &lt;Additional Party EM Buffs&gt;\)×0.2\] + &lt;Additional EM Buffs&gt;**
 
- Also remember that EM gains are order based and value locked upon use. For example, if Sucrose receives the EM buff from Albedo after she has already passed down the EM, the additional party EM buffs will not be applied to the equation.
+Also remember that EM gains are order based and value locked upon use. For example, if Sucrose receives the EM buff from Albedo after she has already passed down the EM, the additional party EM buffs will not be applied to the equation.
 
 ### B. Absorption
 
@@ -304,7 +304,6 @@ Making extensive use of Sucrose’s separate elemental application cooldowns \(f
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li><b>Very consistent AOE dps</b>
           </li>
@@ -321,7 +320,6 @@ Making extensive use of Sucrose’s separate elemental application cooldowns \(f
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li><b>Reliance on high value subdps characters that are vital in higher dps comps</b>
           </li>
@@ -388,7 +386,6 @@ Having EM-filled Sucrose in a maximum element reaction DPS team only makes burst
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li><b>Ability to create insane damage output</b>
           </li>
@@ -399,7 +396,6 @@ Having EM-filled Sucrose in a maximum element reaction DPS team only makes burst
         </ul>
       </td>
       <td style="text-align:left">
-        <p></p>
         <ul>
           <li><b>Overall damage will still rely on your Main reaction trigger DPS</b>
           </li>
@@ -441,6 +437,72 @@ Having EM-filled Sucrose in a maximum element reaction DPS team only makes burst
       <td style="text-align:left"><b>Other:</b>
       </td>
       <td style="text-align:left"><b>Con 6 is a good to have, but not necessary. Constellation 1 will only help with the EM carryover, then again, constellation 1 will help Sucrose no matter what.</b>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Mona Oneshot Clickbait:
+
+![](../../.gitbook/assets/monaoneshotcomp.png)
+
+A team built entirely around amplifying a vaporize reaction from Childe as much as possible, capable of clearing the first abyss 12 floors in one shot. Often drawing in many views and new players with its impressive final damage number, all of the effectiveness of this team comes from very carefully setting up buffs for a well planned reaction, making it difficult to play and relatively inflexible.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Pros</th>
+      <th style="text-align:left">Cons</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <ul>
+          <li><b>Incredibly high burst damage ceiling</b>
+          </li>
+          <li><b>No real reliance con constellations or 5* weapons</b>
+          </li>
+          <li><b>Aside from Bennet, relatively low opportunity cost and is able to use Mona well</b>
+          </li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li><b>Will fall apart if it fails to oneshot or in repeated engagements</b>
+          </li>
+          <li><b>Difficult to set up and complex to play around, need a good understanding of Gauge Theory</b>
+          </li>
+          <li><b>Highly reliant on Mona&apos;s Widsith proc and the Childe vaporize hit critting </b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">Preferred Gear</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Artifacts:</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>4 Piece Viridescent Vinerer</b>
+        </p>
+        <p><b>EM | EM | EM</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Weapons:</b>
+      </td>
+      <td style="text-align:left"><b>Thrilling Tales of Dragon Slayers, Sacrificial Fragments</b>
       </td>
     </tr>
   </tbody>

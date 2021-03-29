@@ -201,7 +201,7 @@ As for team compositions, his value extends far and wide. With stagger resistanc
 
 For physical Zhongli, his combos for proper damage output changes on your choice of weaponry. For Crescent Pike users, optimal damage is using N4 cancels by sprinting after the spear kick. It is recommended to use Superconduct with Fischl and Geo resonance to push his damage profile further. For 5\* weapons, N4 spear kicks into a Charged Attack yield strong results. In general, his team compositions are fluid and you can take your pick of the litter in terms of sub-DPS units.
 
-There are several advanced combos that you can use to increase your damage profile. Not only can Zhongli do his N4 Spear Kick, he can also do N7 E taps, where his attack knocks back, and the E pillar will knock up small enemies for fall damage. Furthermore, he also has a Jump Plunge cancel _\*\*_that can follow up on his normal attack string.
+There are several advanced combos that you can use to increase your damage profile. Not only can Zhongli do his N4 Spear Kick, he can also do N7 E taps, where his attack knocks back, and the E pillar will knock up small enemies for fall damage. Furthermore, he also has a Jump Plunge cancel \_\*\*\_that can follow up on his normal attack string.
 
 {% embed url="https://imgur.com/a/bMWxi14" caption="" %}
 
@@ -211,7 +211,7 @@ There are several advanced combos that you can use to increase your damage profi
 
 | Composition | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/unknown-7-.png) | Zhongli DPS with Geo resonance while strong sub-DPS's are empowered by his Jade Shield resistance shred. |
+| ![](../../.gitbook/assets/unknown-7-%20%281%29.png) | Zhongli DPS with Geo resonance while strong sub-DPS's are empowered by his Jade Shield resistance shred. |
 | ![](../../.gitbook/assets/zhong_2geo_2pyro.jpg) | "Microwave" composition that allows you to play around his resonance with GeoMC. You can replace Bennett with Fischl for significantly more energy to play quickswap. |
 | ![](../../.gitbook/assets/zhong_2geo_sc.jpg) | A fairly standard composition with Superconduct Fischl echoes and Geo resonance. |
 
