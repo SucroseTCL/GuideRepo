@@ -278,11 +278,11 @@ Sucrose’s elemental burst can absorb one element and pulses the same elemental
 
 Non-crystallized element shields \(Xinyan and Diona\) can also apply elements to the burst. For consistency, you can create the shield, then **Switch to another character so the element refreshes.**
 
-### **C. Gravity**
+### **C. Suction**
 
-Sucrose’s elemental skill has a property that gravitates enemies and items towards the center of the AoE. This usually stops there until there has been a revelation that a falling enemy from heights can be gravitated to the ground at a faster rate with a little bit of help from Sucrose elemental skill.
+Sucrose’s elemental skill has a property that attracts enemies and items towards the center of the AoE. In addition to this crowd control, you can also use the suction effect to increase fall damage.
 
-Such concept has been found with characters that are able to lift enemies up very high. Jean + Sucrose combination is a perfect example in which Jean can lift enemies up hard from the charge attack and elemental skill then use Sucrose elemental skill gravity to make them hit the ground with high fall dmg.
+Such a concept has been found with characters that are able to lift enemies up very high. The Jean + Sucrose combination is a perfect example in which Jean's charged attack and elemental skill combo which throw enemies into the air can be followed up by sucrose's skill to further increase falling damage if timed properly.
 
 ## **7. Recommended Team Compositions**
 
