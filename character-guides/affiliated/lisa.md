@@ -983,7 +983,7 @@ _Because of how flexible these types of teams can be, there will be overlapping 
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src="../../.gitbook/assets/image (93).png" alt/>
+        <img src="../../.gitbook/assets/image (87).png" alt/>
       </td>
       <td style="text-align:left">Lisa. Whilst she will not be the team&#x2019;s main focus, her burst damage
         in of itself is enough to make her capable of being a Sub DPS. Some variations
@@ -1039,14 +1039,14 @@ In Geo Teams, Ningguang is almost mandatory being a very reliable Geo Pivot Unit
 
 | Unit | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/image%20%28100%29%20%281%29.png) | Out of these two possible Geo Units, Zhongli would be the preferred option in a Swap Team. This is mainly because of his extensive synergy with Lisa. Zhongli’s Ult already does a lot of burst damage and this fits perfectly as a quickswapper. His Jade Shield is useful as well; for Lisa, it gives her a better poise and a universal shred that can benefit the team as a whole. |
-| ![](../../.gitbook/assets/image%20%2851%29.png) | Albedo can serve as a substitute for Zhongli if he is not available. His Ult is generally fairly strong and does good burst damage. However, since Albedo, by nature, offers more off-field damage, he will not be swapping as much as to place a Solar Isotoma every so often. |
+| ![](../../.gitbook/assets/image%20%2849%29%20%282%29.png) | Out of these two possible Geo Units, Zhongli would be the preferred option in a Swap Team. This is mainly because of his extensive synergy with Lisa. Zhongli’s Ult already does a lot of burst damage and this fits perfectly as a quickswapper. His Jade Shield is useful as well; for Lisa, it gives her a better poise and a universal shred that can benefit the team as a whole. |
+| ![](../../.gitbook/assets/image%20%28127%29%20%281%29.png) | Albedo can serve as a substitute for Zhongli if he is not available. His Ult is generally fairly strong and does good burst damage. However, since Albedo, by nature, offers more off-field damage, he will not be swapping as much as to place a Solar Isotoma every so often. |
 
 **Other Alternatives**
 
 | Unit | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/image%20%2866%29.png) | Out of these two possible Geo Units, Zhongli would be the preferred option in a Swap Team. This is mainly because of his extensive synergy with Lisa. Zhongli’s Ult already does a lot of burst damage and this fits perfectly as a quickswapper. His Jade Shield is useful as well; for Lisa, it gives her a better poise and a universal shred that can benefit the team as a whole. |
+| ![](../../.gitbook/assets/image%20%28115%29.png) | Out of these two possible Geo Units, Zhongli would be the preferred option in a Swap Team. This is mainly because of his extensive synergy with Lisa. Zhongli’s Ult already does a lot of burst damage and this fits perfectly as a quickswapper. His Jade Shield is useful as well; for Lisa, it gives her a better poise and a universal shred that can benefit the team as a whole. |
 
 **Electro-Based**
 
@@ -1059,8 +1059,8 @@ _The last slot becomes a flex slot; as such, not all units will be showcased bel
 
 | Unit | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/image%20%28100%29.png) | As previously mentioned, Zhongli offers a lot to a Swap Team when along with Lisa. The notes above still apply here. |
-| ![](../../.gitbook/assets/image%20%2870%29.png) | Now enters Venti. Notably, Venti stands as an ideal Quickswapper, having a short CD on his E as well as an impactful Ult. When infused with either Pyro or Electro in this team, Lisa will always be able to make use of it. An Electro infused Ult garners more Electro Damage with 4VV, and a Pyro infused Ult benefits slightly from Lisa’s ability to do Overload damage \(albeit not preferred\). |
+| ![](../../.gitbook/assets/image%20%2849%29%20%283%29.png) | As previously mentioned, Zhongli offers a lot to a Swap Team when along with Lisa. The notes above still apply here. |
+| ![](../../.gitbook/assets/image%20%28120%29%20%282%29.png) | Now enters Venti. Notably, Venti stands as an ideal Quickswapper, having a short CD on his E as well as an impactful Ult. When infused with either Pyro or Electro in this team, Lisa will always be able to make use of it. An Electro infused Ult garners more Electro Damage with 4VV, and a Pyro infused Ult benefits slightly from Lisa’s ability to do Overload damage \(albeit not preferred\). |
 | ![](../../.gitbook/assets/image%20%2868%29%20%281%29.png) | Mona works exceptionally well in here to persist as a burster, buffer, and as assistance in additional Electro-Charged damage. Since both Lisa and Mona benefit greatly from Pyro-Applications \(Lisa’s Stacks and Mona’s Ult Vaporize\), the two coexisting with one another do not interfere at all. A minimal Hydro-Applier, like Mona, can also help out considerably if any units are wearing 4TS. |
 
 ### **Main Carry Oriented \(Pseudo-Taser\)**
@@ -1073,7 +1073,7 @@ _Do keep in mind 4TF won’t proc as often due to it being finicky with Lisa’s
 
 | Unit | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/image%20%2887%29.png) | Lisa. With her innate growth of EM, Lisa's best Main Carry archetype would be those focusing around the Electro-Charged reaction and others. She also gains energy at a surprisingly adequate rate with C1. Lisa does not have to play long-ranged. |
+| ![](../../.gitbook/assets/image%20%2887%29%20%281%29.png) | Lisa. With her innate growth of EM, Lisa's best Main Carry archetype would be those focusing around the Electro-Charged reaction and others. She also gains energy at a surprisingly adequate rate with C1. Lisa does not have to play long-ranged. |
 | Conductor | This term will refer to Pyro/Cryo units. Like with the majority of teams that want to include Lisa, [Lisa really does enjoy having a Pyro/Cryo to radiate stacks off of](https://docs.google.com/document/d/11_fWA4QOjBKt8vQ7F8zRxRTPjQEAyeJEOUmdXOmjdMk/edit#heading=h.frcwzfpj3t4c). |
 | Hydro | Can’t have Electro-Charged without a Hydro unit, can you? |
 | Utility | This term broadly covers other units that can be slotted here. It loosely umbrellas other Electro Supports, Anemo Supports, or useful Supports in general. |
@@ -1083,9 +1083,9 @@ _Do keep in mind 4TF won’t proc as often due to it being finicky with Lisa’s
 | Unit | Notes |
 | :--- | :--- |
 | ![](../../.gitbook/assets/image%20%2867%29%20%281%29.png) | Bennett appears once more. If it hasn’t been clear enough, Bennett synergizes so much with Lisa that he will always be a good option, and especially with his Pyro application. |
-| ![](../../.gitbook/assets/image%20%2869%29.png) | Diona serves as a Healer that can apply Cryo fairly readily with her Ult and/or her E. Whilst it isn't a frequent Cryo application, any at all is enough for Lisa to capitalize upon. |
-| ![](../../.gitbook/assets/image%20%2890%29.png) | Unlike the other two above, Xiangling offers as a stable Pyro applicant with her Ult. Including Xiangling will likely result in less EC procs and more Overload/Vaporize procs however. She also has a costly ult that can be minimally remedied by later including Fischl, as a means of Turbo-ing, do keep in mind that Lisa will be reacting a lot more than Oz will. |
-| ![](../../.gitbook/assets/image%20%2894%29.png) | Likewise, Kaeya’s inclusion is similar in vain to Xiangling’s inclusion: offering a reliable Cryo applicant in his Ult. Similarly, inputting Fischl can be considered, but it becomes less necessary as his Ult is a 60-cost. Again, there will be less EC procs. |
+| ![](../../.gitbook/assets/image%20%28117%29.png) | Diona serves as a Healer that can apply Cryo fairly readily with her Ult and/or her E. Whilst it isn't a frequent Cryo application, any at all is enough for Lisa to capitalize upon. |
+| ![](../../.gitbook/assets/image%20%28121%29.png) | Unlike the other two above, Xiangling offers as a stable Pyro applicant with her Ult. Including Xiangling will likely result in less EC procs and more Overload/Vaporize procs however. She also has a costly ult that can be minimally remedied by later including Fischl, as a means of Turbo-ing, do keep in mind that Lisa will be reacting a lot more than Oz will. |
+| ![](../../.gitbook/assets/image%20%28118%29.png) | Likewise, Kaeya’s inclusion is similar in vain to Xiangling’s inclusion: offering a reliable Cryo applicant in his Ult. Similarly, inputting Fischl can be considered, but it becomes less necessary as his Ult is a 60-cost. Again, there will be less EC procs. |
 
 #### Hydro Slot
 
@@ -1095,7 +1095,7 @@ _Barbara can be used as a last-resort/early-game option. Obviously it’s not pr
 
 | Unit | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/image%20%2861%29.png) | Xingqiu can be argued as the centerpiece between EC teams, allowing, what is essentially, a Hydro Turret to be on field. Although his Hydro aura fails to overtake Lisa’s Electro aura for Lisa to proc reactions \(4TF\), his passive echo damage is rampant and works well when Lisa is on-field. |
+| ![](../../.gitbook/assets/image%20%28108%29%20%281%29.png) | Xingqiu can be argued as the centerpiece between EC teams, allowing, what is essentially, a Hydro Turret to be on field. Although his Hydro aura fails to overtake Lisa’s Electro aura for Lisa to proc reactions \(4TF\), his passive echo damage is rampant and works well when Lisa is on-field. |
 | ![](../../.gitbook/assets/image%20%2868%29.png) | In an EC team, Mona can act as a mini-Hydro applier with her Skill, intermittently spreading Hydro for reactions. However, her rate of application is not as preferable; if you are considering to include Mona in this archetype, an Anemo Support should be utilized as well for infusion. |
 | ![](../../.gitbook/assets/image%20%2891%29.png) | Tartaglia can be inputted in an EC team with Lisa, do be noted that he really only can be considered when he is **C4+**. With Tartaglia’s **C4**, he technically can amass for the longest Hydro aura uptime of potentially 24 seconds, just that it's only on four ticks of application. Comparatively, Xingqiu or Mona would definitely outsuit him in this regard. |
 
@@ -1104,10 +1104,10 @@ _Barbara can be used as a last-resort/early-game option. Obviously it’s not pr
 | Unit | Notes |
 | :--- | :--- |
 | ![](../../.gitbook/assets/image%20%2849%29.png) | Now Zhongli appears once more. This time, in an EC team with Lisa, his presence is indicative of his supporting potential. As Zhongli is able to provide a shield for Lisa’s poise, an omnishred, and access to 4AP. |
-| ![](../../.gitbook/assets/image%20%2898%29.png) | In a team where Lisa will be on-field the most, Albedo will function as an additional source of echo damage sourcing from his Solar Isotoma. As well as this, his shared EM from A4 will benefit Lisa’s ability to damage with reactions. He can hold 4AP too. |
-| ![](../../.gitbook/assets/image%20%2871%29.png) | Fischl assists Lisa a plentiful amount in Taser teams, aside from Fischl’s C6 enabling a very stable rate of Electro application, her off-field damage triumphs against single-targets. Additionally, with a conductor with good Pyro/Cryo application, Oz will occasionally proc Overload/Superconduct to semi-enable a [Turbo](https://library.keqingmains.com/characters/electro/fischl#turbo) factor in these teams, slightly ameliorating the high-energy cost Ults. |
-| ![](../../.gitbook/assets/image%20%2873%29.png) | Beidou can be considered as an alternative to Fischl. Comparatively, Beidou offers much more AoE damage and also grants an additional source of echo damage from her Ult. Refunding Beidou’s Ult in a timely manner will involve the player to swap-parry often however. |
-| ![](../../.gitbook/assets/image%20%2896%29.png) | When inputted in an EC team, Venti and another Hydro unit can make a Hydro-infused Ult. This would act as the common Hydro applier and provide CC. CC will allow for the grouping of mobs, this will make it easier for Lisa to radiate stacks off of. 4VV and its 40% Elemental RES shred is also appreciated as well. |
+| ![](../../.gitbook/assets/image%20%28127%29.png) | In a team where Lisa will be on-field the most, Albedo will function as an additional source of echo damage sourcing from his Solar Isotoma. As well as this, his shared EM from A4 will benefit Lisa’s ability to damage with reactions. He can hold 4AP too. |
+| ![](../../.gitbook/assets/image%20%28124%29%20%281%29.png) | Fischl assists Lisa a plentiful amount in Taser teams, aside from Fischl’s C6 enabling a very stable rate of Electro application, her off-field damage triumphs against single-targets. Additionally, with a conductor with good Pyro/Cryo application, Oz will occasionally proc Overload/Superconduct to semi-enable a [Turbo](https://library.keqingmains.com/characters/electro/fischl#turbo) factor in these teams, slightly ameliorating the high-energy cost Ults. |
+| ![](../../.gitbook/assets/image%20%28116%29.png) | Beidou can be considered as an alternative to Fischl. Comparatively, Beidou offers much more AoE damage and also grants an additional source of echo damage from her Ult. Refunding Beidou’s Ult in a timely manner will involve the player to swap-parry often however. |
+| ![](../../.gitbook/assets/image%20%28120%29%20%281%29.png) | When inputted in an EC team, Venti and another Hydro unit can make a Hydro-infused Ult. This would act as the common Hydro applier and provide CC. CC will allow for the grouping of mobs, this will make it easier for Lisa to radiate stacks off of. 4VV and its 40% Elemental RES shred is also appreciated as well. |
 | ![](../../.gitbook/assets/image%20%2850%29.png) | In a similar case to Venti, Sucrose can provide many of the benefits that Venti can, but differently. Likewise, with a Hydro unit, Sucrose can create a Hydro-infused Ult. Whilst hers isn’t as strong as Venti’s, it still remains enough for Lisa to take advantage of. Sucrose can also hold 4VV for the team. |
 
 ### Support Lisa

@@ -224,7 +224,7 @@ Amplification Tao comps function around enabling Hu Tao to proc as many Vaporize
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/hutao (1) (1).png" alt/>
+          <img src="../../.gitbook/assets/hutao (1) (1) (1).png" alt/>
         </p>
         <p><b>Hu Tao</b>
         </p>
@@ -369,7 +369,7 @@ Hu Tao has a wide cast of supports that she can effectively utilize with her aug
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/diona.png" alt/>
+          <img src="../../.gitbook/assets/diona (1).png" alt/>
         </p>
         <p><b>Diona</b>
         </p>
@@ -448,7 +448,7 @@ Turbo Tao’s gameplay and win condition revolves around abusing Fischl Turbo me
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/hutao (1).png" alt/>
+          <img src="../../.gitbook/assets/hutao (1) (1).png" alt/>
         </p>
         <p><b>Hu Tao</b>
         </p>
@@ -549,7 +549,7 @@ Every Superconduct Turbo Tao comp uses Fischl and Kaeya. Kaeya is a must in SC T
     <tr>
       <td style="text-align:left">
         <p>&lt;b&gt;&lt;/b&gt;
-          <img src="../../.gitbook/assets/diona (1).png" alt/>
+          <img src="../../.gitbook/assets/diona.png" alt/>
         </p>
         <p><b>Diona</b>
         </p>
@@ -563,7 +563,7 @@ Every Superconduct Turbo Tao comp uses Fischl and Kaeya. Kaeya is a must in SC T
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/xingqiu.png" alt/>
+          <img src="../../.gitbook/assets/xingqiu (1) (1).png" alt/>
         </p>
         <p><b>Xingqiu</b>
         </p>

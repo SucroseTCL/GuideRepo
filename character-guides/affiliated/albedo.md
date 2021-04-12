@@ -6,7 +6,7 @@ description: 'Learning Albedo - by Reydriar#8127'
 
 ![](../../.gitbook/assets/albedo-title.jpeg)
 
-![](../../.gitbook/assets/element_geo%20%281%29.png)
+![](../../.gitbook/assets/element_geo%20%281%29%20%281%29.png)
 
 ## **Preface**
 
@@ -482,5 +482,5 @@ This is a very basic rotation without much room for change. You replace your Sol
 
 20.02.2021 - Published
 
-![](../../.gitbook/assets/element_geo.png)
+![](../../.gitbook/assets/element_geo%20%281%29.png)
 

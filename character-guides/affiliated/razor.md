@@ -679,7 +679,7 @@ Note: The ‘Synergy with Razor’ column is highly tentative and dependent on t
 
 ### Kaeya - Cryo Sword
 
-![](../../.gitbook/assets/image%20%28118%29.png)
+![](../../.gitbook/assets/image%20%28118%29%20%281%29.png)
 
 **SC Enabler, Sub-DPS  
 A \(C0\) - S- \(C2\)**
@@ -703,7 +703,7 @@ Furthering the energy recharge theme, **Favonius Sword** is Kaeya’s best ER op
 
 ### **Diona - Cryo Bow**
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28117%29%20%281%29.png)
 
 **SC Enabler, Shielder, Healer  
 S \(C0\) - S+ \(C2\)**
@@ -859,7 +859,7 @@ In general, good weapons for Sub-DPS Fischl are **Skyward Harp, Amos Bow, The St
 
 ### **Beidou - Electro Claymore**
 
-![](../../.gitbook/assets/image%20%28116%29.png)
+![](../../.gitbook/assets/image%20%28116%29%20%281%29.png)
 
 **Sub-DPS, Electro resonance  
 B+ \(C0\) - A \(C6\)**
@@ -883,7 +883,7 @@ As a high investment unit, Beidou favors claymores such as **Wolf’s Gravestone
 
 ### **Bennett - Pyro Sword**
 
-![](../../.gitbook/assets/image%20%28111%29.png)
+![](../../.gitbook/assets/image%20%2867%29%20%282%29.png)
 
 **Support, Healer**  
 **B+ \(C0\) - A \(C1\)**
@@ -907,7 +907,7 @@ Similarly to Kaeya, **Favonius Sword** furthers Bennett’s Burst uptime with an
 
 ### **Xiangling - Pyro Polearm**
 
-![](../../.gitbook/assets/image%20%28121%29.png)
+![](../../.gitbook/assets/image%20%28121%29%20%281%29.png)
 
 **Support, Sub-DPS  
 B \(C0\) - A- \(C4\)**
@@ -931,7 +931,7 @@ As an energy-hungry Burst support, Xiangling loves weapons that boost her energy
 
 ### **Xinyan - Pyro Claymore**
 
-![](../../.gitbook/assets/image%20%28115%29.png)
+![](../../.gitbook/assets/image%20%28115%29%20%281%29.png)
 
 **Support, Shielder  
 B \(C0\) - A \(C4\)**
@@ -979,7 +979,7 @@ Venti has quite a bit of options for weapons. He has quite a large variety of op
 
 ### **Zhongli - Geo Polearm**
 
-![](../../.gitbook/assets/image%20%28114%29.png)
+![](../../.gitbook/assets/image%20%2849%29%20%281%29.png)
 
 **Support, Shielder, CC  
 S \(C0\) - S+ \(C2\)**
@@ -1003,7 +1003,7 @@ For Zhongli’s weapons, **Favonius Lance** is recommended to provide energy as 
 
 ### **Albedo - Geo Sword**
 
-![](../../.gitbook/assets/image%20%28127%29.png)
+![](../../.gitbook/assets/image%20%28127%29%20%282%29.png)
 
 **Sub-DPS, Support, Shielder  
 A+ \(C0\) - S \(C6\)**

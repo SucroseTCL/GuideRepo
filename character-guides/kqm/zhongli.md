@@ -211,7 +211,7 @@ There are several advanced combos that you can use to increase your damage profi
 
 | Composition | Notes |
 | :--- | :--- |
-| ![](../../.gitbook/assets/unknown-7-%20%281%29.png) | Zhongli DPS with Geo resonance while strong sub-DPS's are empowered by his Jade Shield resistance shred. |
+| ![](../../.gitbook/assets/unknown-7-%20%281%29%20%281%29.png) | Zhongli DPS with Geo resonance while strong sub-DPS's are empowered by his Jade Shield resistance shred. |
 | ![](../../.gitbook/assets/zhong_2geo_2pyro.jpg) | "Microwave" composition that allows you to play around his resonance with GeoMC. You can replace Bennett with Fischl for significantly more energy to play quickswap. |
 | ![](../../.gitbook/assets/zhong_2geo_sc.jpg) | A fairly standard composition with Superconduct Fischl echoes and Geo resonance. |
 

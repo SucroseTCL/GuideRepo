@@ -445,7 +445,7 @@ Although this team shares many heroes with the previous team, it works quite dif
 
 The “taser” team is based around triggering Fischl’s A4 passive as much as possible with electro-charged and swirl. Sucrose spends the most time on field, but Fischl is the main damage dealer. Xingqiu and Beidou add a lot of damage to Sucrose’s otherwise worthless normal attacks. The stagger from electro-charged, damage reduction from Xingqiu, and counter from Beidou substitute for a healer. You can replace Beidou with Bennett, especially if you have C6 on Fischl.
 
-![](../.gitbook/assets/unknown-7-.png)
+![](../.gitbook/assets/unknown-7-%20%281%29.png)
 
 Crescent Pike Zhongli does reasonable damage with his attacks, while also reducing enemy resistance to boost the damage of Xiangling’s vaporized burst. Albedo is flexible; the team doesn’t need a healer because of Zhongli’s shield and Xingqiu’s damage reduction, but Bennett is still strong.
 

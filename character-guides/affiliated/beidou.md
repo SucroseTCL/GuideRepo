@@ -4,6 +4,8 @@ description: 'Tales from the Sea: The Ultimate Beidou Guide | ZΛNTO#4984'
 
 # Beidou
 
+
+
 {% hint style="info" %}
 This guide was written by ZΛNTO\#4984 of [Beidou Mains](https://discord.gg/rgS2f9dBxb)! You can find the full document [here](https://docs.google.com/document/d/1LyhpgeCGv4GQ7MXuslgwb5lJgQ2GOrPMhIDSv2qARQo/edit?usp=sharing).
 {% endhint %}

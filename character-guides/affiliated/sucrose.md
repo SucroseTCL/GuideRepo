@@ -473,7 +473,7 @@ A team built entirely around amplifying a vaporize reaction from Childe as much 
           </li>
           <li><b>Difficult to set up and complex to play around, need a good understanding of Gauge Theory</b>
           </li>
-          <li><b>Highly reliant on Mona&apos;s Widsith proc and the Childe vaporize hit critting </b>
+          <li><b>Highly reliant on Mona&apos;s Widsith proc and the Childe vaporize hit critting</b>
           </li>
         </ul>
       </td>
