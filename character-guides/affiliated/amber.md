@@ -104,7 +104,7 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
    _Any hit with those two attacks on a weakspot will be a guaranteed critical._ Crit Rate does not impact damage done in any feasible way when hitting weakspots, essentially think your Crit Rate is set to 100% at the cost of high skill requirement. This is what lets Amber go completely ballistic with Crit Damage investment and get away with it. Not gonna lie or sugarcoat things, consistently hitting a small target like a head mounted on moving target like a Fatui Skirmisher requires some practice. You’re not going to do it on your first or second or even third try. Practice makes perfect. 
 
-![Figure 1. Fully Charged Shot. Note the weakspot crits happening when arrows hit monster&#x2019;s head.](../../.gitbook/assets/figure1.gif)
+![](../../.gitbook/assets/amberfigure1.gif)
 
    Charged attacks do not operate on any resource like stamina or energy nor do they have any cooldowns that prevent you from using them in succession, making it a reliable way of high damage, sustained, single target output.
 
@@ -118,7 +118,7 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
    Holding Attack button completely skips reload animation, significantly reducing workload required for maximizing amount of arrows shot at the enemy. The Attack button must be held for at least 251ms for the game to trigger the Quick Aimed Shot attacks, and must be held for another ~1000ms on top for the game to trigger fully Charged Shot.
 
-![Figure 2. Hold-cancel with quick Aimed Shots, showcased by Timteee](../../.gitbook/assets/figure2.gif)
+![Figure 2. Hold-cancel with quick Aimed Shots, showcased by Timteee](../../.gitbook/assets/amberfigure2.gif)
 
    Any source of damage boost that states that it increases Charged Attack damage buffs the damage of both Quick Aimed Shot and fully Charged Shot. Bloodstained Chivalry 4p set bonus, Martial Artist both 2p and 4p set bonuses, Abyss cards to name a few sources, they all increase the damage done by both types of Amber’s Charged Attacks. 
 
@@ -132,7 +132,7 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
    The wind down frames can be skipped by double tapping Aim Mode button at the right time. Quick Aimed Shots can be launched, utilizing all the above techs, at frame perfect play, visually without entering Aim Mode at all. This provides MV/s output above Keqing N1C, but realistically you can’t reach the full potential without becoming a god. In mortal hands this output requires you to fully macro the rotation, and due to MHY stance on macro it might not be the wisest decision.
 
-![Figure 3. Full macro Amber.](../../.gitbook/assets/figure3.gif)
+![Figure 3. Full macro Amber.](../../.gitbook/assets/amberfigure3.gif)
 
 ### Elemental Skill
 
@@ -155,7 +155,7 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
    All taunt abilities in the game share the same taunt AoE. It is equal to Mona and Ganyu elemental skills in this role. 
 
-   Taunt radius is not that large\(see fig.2\), so care must be taken to make full use of it.
+   Taunt radius is not that large\(see fig.4\), so care must be taken to make full use of it.
 
    Do note that monsters can not switch targets mid-action. If a monster starts his attack sequence, it will finish the sequence attacking the initial target, even if it was taunted in the middle of that. Monster will switch targets only when in idle stance. 
 
@@ -165,15 +165,17 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
    Taunt distance is measured to the direct center of the enemy model, not the closest point. Due to that large bulky monsters might not be taunted, even if visually they seem to be in the effective radius of the Baron Bunny.
 
-![Figure 4. The taunt radius of Explosive Puppet.](../../.gitbook/assets/figure4.png)
+![Figure 4. The taunt radius of Explosive Puppet.](../../.gitbook/assets/amberfigure4.png)
 
-   After 8 seconds or after being destroyed, whichever happens first, Baron Bunny detonates, dealing average damage in a small radius around it. Actual hitbox of the explosion does not correlate with the visual effect of it\(see fig.3\). Another problem is passivity of most enemies. Almost all enemies will usually stay right outside of the burst radius even when taunted by the Baron Bunny. They must be actively attacking it melee in order to be hit by detonation. Yet another problem is the relatively low mass that Baron Bunny has. Attacks with knockback effect can throw it far away, once again depriving it of the detonation damage. And unless the explosion damages the enemy, this ability will not generate any elemental particles to recharge energy for the elemental burst.
+   After 8 seconds or after being destroyed, whichever happens first, Baron Bunny detonates, dealing average damage in a small radius around it. Actual hitbox of the explosion does not correlate with the visual effect of it\(see fig.5\). Another problem is passivity of most enemies. **Almost all enemies will usually stay right outside of the burst radius even when taunted by the Baron Bunny.** They must be actively attacking it melee in order to be hit by detonation. Yet another problem is the relatively low mass that Baron Bunny has. Attacks with knockback effect can throw it far away, once again depriving it of the detonation damage. And **unless the explosion damages the enemy, this ability will not generate any elemental particles** to recharge energy for the elemental burst.
 
    At the same time, Baron Bunny being flung around so much can be a hidden blessing, with lucky RNG forcing aggro’ed monsters to take more distance away from you.
 
    Baron Bunny detonation counts as a “heavy” hit. It shatters frozen enemies and deals very high damage to geo shields, both churl and slime ones.
 
-![Figure 5. Approximate detonation radius of Explosive Puppet. ](../../.gitbook/assets/figure5.png)
+![](../../.gitbook/assets/amberfigure5.png)
+
+> Note how Churl was undamaged by the explosion and is not afflicted with Pyro aura despite flames visually touching him.
 
 ### Elemental Burst
 
@@ -200,7 +202,9 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
    The position of the enemy is dynamically tracked, so if the enemy walks through different zones in the area of effect he can be hit more or less than listed, depending on the time the enemy spent in the zones. It is a very very rough approximation of inner workings of this ability, so take it with a healthy dose of salt.
 
-![Figure 6. Approximate location of the different zones in the area of effect.](../../.gitbook/assets/figure6.png)
+![Figure 6. Approximate location of the different zones in the area of effect.](../../.gitbook/assets/amberfigure6.png)
+
+> Outer circle is coloured purple, Inner circle is green, Dead center is the marker ability places itself.
 
    Since this ability does damage in waves, Melt and Vaporize can only boost damage of a few hits, diminishing the potential damage output significantly. On the other hand, due to this Fiery Rain is absolutely amazing in breaking enemy elemental shields, breaking cryo shields almost instantly if the target was dead center when ability was cast.   
 
@@ -212,7 +216,7 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
 ### Constellations
 
-> Yeah! As fast as a riding wind!
+> Master Jean gave me permission to pluck a feather from a magical bird. Hehe, I’ll wear it at my side every single day!
 
 
 
@@ -302,6 +306,8 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
 ### Playstyles
 
+> I can handle anything and everything!
+
    There are two ways to play Amber:
 
    First — Amber spends all the time on the field shooting her bow as a main source of damage for the party, i.e. “carry” or “main DPS” to put it simply. 
@@ -322,7 +328,7 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
 
 
-   It is very easy to fuck up aura application orders and instead of melting/vaping fully Charged shot you get a whiff, so patience and prudence are a must. What I mean by that, you should never ever shoot a target if it has no Hydro or Cryo aura pre-applied. Amber’s fully Charged Shot applies strong Pyro aura. Normally it is fully consumed if you melt/vape. If by accident you apply this aura to the monster, it will be very hard to get rid of it and continue melting/vaping. 
+   It is very easy to fuck up aura application orders and instead of melting/vaping fully Charged shot you get a whiff, so patience and prudence are a must. What I mean by that, you should never ever shoot a target if it has no Hydro or Cryo aura pre-applied. Amber’s fully Charged Shot applies a strong Pyro aura. Normally it is fully consumed if you melt/vape. If by accident you apply this aura to the monster, it will be very hard to get rid of it and continue melting/vaping. 
 
    Tag \[melt\] will be used in the rest of the document when referring to this playstyle.
 
@@ -380,9 +386,11 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
 ### Team Building
 
+> For sure, I may still have a way to go before I catch up with my seniors. But one day, I’m gonna be the best Outrider ever!
+
    As Genshin Impact in large part is a game about building perfect team synergy, it is important to know what characters make it possible to push Amber to her absolute limit.
 
-   In large part all choices will be dictated from the carry Amber perspective. This document’s purpose is to show how Amber can be used and how to support her as a character that spends most of the time on field doing fully Charged Shots or quick Aimed Shots. Some characters are stronger than Amber, and using them just to support Amber limits their potential. This is a controversial take. But such silly notions are beyond a devoted waifufag. 
+   In large part all choices will be dictated from the carry Amber perspective. This document’s purpose is to show how Amber can be used and how to support her as a character that spends most of the time on field doing fully Charged Shots or quick Aimed Shots. Some characters are stronger than Amber, and using them just to support Amber limits their potential. This is a controversial take. But such silly notions are beyond a devoted fan. 
 
    With this out of the way, let’s start.
 
@@ -584,7 +592,7 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 * Extremely efficient at providing off-screen damage
 * Can generate a lot of crystals easily
 
-   Albedo for most part is a very good off-screen source of damage. His E procs will steal part of elemental aura from the enemies, but normally it is not a problem. He also has a cheap spammable burst that deals AoE damage. Since almost all damage Amber does is single-target, she can’t utilize his E to the fullest. 
+   Albedo for most part is a very good off-screen source of damage. His E procs will steal part of elemental aura from the enemies, but normally it is not a problem. He also has a cheap spammable burst that deals AoE damage. Combo-ing said burst with any grouping ability significantly increases overall damage done. 
 
    His E-levator works similarly to Zhong Li’s pillar, and can also be used to freely shoot at the monsters. Beware of monster resets.
 
@@ -633,7 +641,33 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
    Kaeya can also be freely swapped for QiQi. Team will function almost exactly the same, but QiQi is just a worse Kaeya in this case. Kaeya is not that high in demand, and you get him for free, while QiQi is a 5\* character.
 
+#### Diona
 
+![](../../.gitbook/assets/amberdiona.png)
+
+* Main role: \[Elemental Support\]
+* Extra utility:\[Buff Support\]
+* Her Q applies cryo in a small AoE for 12 seconds
+* Q has a hefty 80 energy cost
+* Q Cryo application is relatively slow
+* Hold E provides a very good shield
+
+   Diona is a pretty good character to have at a glance. She can apply cryo from range, heal and shield at the same time. But there are certain caveats not immediately obvious. It is pretty taxing to fuel her burst every cooldown without Sacrificial Bow. Diona’s C1 helps a lot in managing her Burst cost. Main downside is that you will have downtime of 8 seconds between bursts, even if you manage to feed enough energy. Another downside is being chained to a small area, it lowers mobility too much. If there are at least 2 targets to shoot her Q applies enough cryo, but for a single monster it is way too slow, as you will be waiting more than a second for cryo to be re-applied by it. 
+
+   Diona is a nice addition to any other cryo character in your party though. She can help fuel Elemental Burst or can provide shields to stay at close range. Diona alone is decent, but not perfect character. Diona in addition to other cryo character though really starts to shine. Cryo resonance also helps a bit with weakspot-less enemies too.
+
+#### Rosaria
+
+![](../../.gitbook/assets/amberrosaria.png)
+
+* Main Role: \[Elemental Support\]
+* Extra utility: none
+* Q steadily applies cryo in deceptively large area
+* Q applies cryo at the fastest pace among all other ranged off-field sources
+
+   Rosaria is more or less an alternative version of Diona for our purposes. Her Q has shorter cooldown, lesser energy cost, and applies cryo faster in pretty much the same radius.
+
+   You pay for a significantly better cryo application by lacking any and all utility that Diona provides. Outside of her Q, Rosaria brings pretty much nothing to the table. But why not take both? Going double cryo supports and getting the best of both worlds is a very solid idea.
 
 #### Ganyu
 
@@ -688,6 +722,8 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
 ![](../../.gitbook/assets/amber4.png)
 
+> ...I must not fall behind. I must train harder.
+
 ### Gearing
 
    Amber is a unique character in the game. It is possible to get 100% crit rate just by shooting at a weakspot. It applies only to Aim Mode attacks though. But  Amber’s Elemental Skill and Elemental Burst, even when used on cooldown, account only for 10~15% of total damage output if she’s the main on-field character. Gear choices would reflect that. 
@@ -698,7 +734,7 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
 #### Bows
 
-   All weapons can be roughly classified into 2 groups. The first weapon group\(Group A\) is significantly, miles better than the second group\(Group B\). Nevertheless, weapons inside the same group are all pretty close together in output. Upgrading from Group B weapon to Group A weapon is a massive improvement. But there is absolutely no reason to switch between weapons of the same group. In some specific cases 3\* weapon is roughly equivalent to a 5\* weapon and the later would be a sidegrade at best, so they will be in the same group.
+   All weapons can be roughly classified into 2 groups. The first weapon group\(Group A\) is significantly, miles better than the second group\(Group B\). Upgrading from Group B weapon to Group A weapon is a massive improvement. But there is absolutely no reason to switch between weapons of the same group. If you already have Group B weapon, swapping to another Group B weapon will not change damage output by significant margin. **Weapons in the same group are all roughly equal in damage output and just a matter of personal preference.** In some specific cases 3\* weapon is roughly equivalent to a 5\* weapon and the later would be a sidegrade at best, so they will be in the same group.
 
  ****For \[Melt\] build, 
 
@@ -961,6 +997,8 @@ This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg
 
 ![](../../.gitbook/assets/amber5.png)
 
+> The skies over Mondstadt seem have grown smaller...or is it that my sight reaches further then ever before?
+
 ### Deep Dive Exploration
 
    ****This chapter takes its own [mini-doc](https://docs.google.com/document/d/1h-MuA3g3Mx3BQ8l6ZawjvvMDi9ibmQUlirlb3iKNXcw/edit?usp=sharing), as it is mostly for theorycrafters or dedicated die-hard Amber players. It contains a lot of tables, math and expects you to make the decisions for yourself based on pre-solved problems. If you just want to try out Amber and see how she plays, there’s no need to read this. If you’re playing casually, do not touch it either. You will just puzzle yourself with the amount of raw unsorted data this section has. My biased commentary will not help much in explaining things either. If you do want to bite the bullet — take your time, question my conclusions, and think with your own head instead of blindly believing that I am right.
@@ -1012,6 +1050,18 @@ ver 1,0 updated 21.03.2021
 		— Separated deep dive section into its own sub-doc
 
 		— Added Elegy of the End and Windblume.
+
+### Version 1,1
+
+	ver 1,1, updated 12.04.21
+
+		— Minor text fixes
+
+		— Added Rosaria
+
+		— Included \[Support\] Amber parts written by Bobrokrot
+
+		— Added some more flavour text
 
 
 
