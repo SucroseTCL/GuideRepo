@@ -1,11 +1,11 @@
 ---
-description: 'Gospel of Amber by Hatsuharufag#4291'
+description: Gospel of Amber by Dedicated Fans
 ---
 
 # Amber
 
 {% hint style="info" %}
-This guide was written by Hatsuharufag\#4291 of [Amber Mains](https://discord.gg/fTDtAVzfR6)! You can find the full document [here](https://docs.google.com/document/d/1l132T12qme-0xMtY7Ff5JIS2N1sZqGoA3InCHkbvQlU/edit#).
+This guide was written by multiple authors cited in the Credits section. You can find the full document [here](https://docs.google.com/document/d/1l132T12qme-0xMtY7Ff5JIS2N1sZqGoA3InCHkbvQlU/edit#).
 {% endhint %}
 
 ## Preface
